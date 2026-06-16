@@ -1,0 +1,2456 @@
+{
+    "1": {
+        "owner": "None",
+        "troops": 0,
+        "has_city": false,
+        "is_fortified": false
+    },
+    "2": {
+        "owner": "",
+        "troops": "",
+        "has_city": "",
+        "is_fortified": ""
+    },
+    "3": {
+        "owner": "",
+        "troops": "",
+        "has_city": "",
+        "is_fortified": ""
+    },
+    "4": {
+        "owner": "",
+        "troops": "",
+        "has_city": "",
+        "is_fortified": ""
+    },
+    "5": {
+        "owner": "",
+        "troops": "",
+        "has_city": "",
+        "is_fortified": ""
+    },
+    "6": {
+        "owner": "",
+        "troops": "",
+        "has_city": "",
+        "is_fortified": ""
+    },
+    "7": {
+        "owner": "",
+        "troops": "",
+        "has_city": "",
+        "is_fortified": ""
+    },
+    "8": {
+        "owner": "",
+        "troops": "",
+        "has_city": "",
+        "is_fortified": ""
+    },
+    "9": {
+        "owner": "",
+        "troops": "",
+        "has_city": "",
+        "is_fortified": ""
+    },
+    "10": {
+        "owner": "",
+        "troops": "",
+        "has_city": "",
+        "is_fortified": ""
+    },
+    "11": {
+        "owner": "",
+        "troops": "",
+        "has_city": "",
+        "is_fortified": ""
+    },
+    "12": {
+        "owner": "",
+        "troops": "",
+        "has_city": "",
+        "is_fortified": ""
+    },
+    "13": {
+        "owner": "",
+        "troops": "",
+        "has_city": "",
+        "is_fortified": ""
+    },
+    "14": {
+        "owner": "",
+        "troops": "",
+        "has_city": "",
+        "is_fortified": ""
+    },
+    "15": {
+        "owner": "",
+        "troops": "",
+        "has_city": "",
+        "is_fortified": ""
+    },
+    "16": {
+        "owner": "",
+        "troops": "",
+        "has_city": "",
+        "is_fortified": ""
+    },
+    "17": {
+        "owner": "",
+        "troops": "",
+        "has_city": "",
+        "is_fortified": ""
+    },
+    "18": {
+        "owner": "",
+        "troops": "",
+        "has_city": "",
+        "is_fortified": ""
+    },
+    "19": {
+        "owner": "",
+        "troops": "",
+        "has_city": "",
+        "is_fortified": ""
+    },
+    "20": {
+        "owner": "",
+        "troops": "",
+        "has_city": "",
+        "is_fortified": ""
+    },
+    "21": {
+        "owner": "",
+        "troops": "",
+        "has_city": "",
+        "is_fortified": ""
+    },
+    "22": {
+        "owner": "",
+        "troops": "",
+        "has_city": "",
+        "is_fortified": ""
+    },
+    "23": {
+        "owner": "",
+        "troops": "",
+        "has_city": "",
+        "is_fortified": ""
+    },
+    "24": {
+        "owner": "",
+        "troops": "",
+        "has_city": "",
+        "is_fortified": ""
+    },
+    "25": {
+        "owner": "",
+        "troops": "",
+        "has_city": "",
+        "is_fortified": ""
+    },
+    "26": {
+        "owner": "",
+        "troops": "",
+        "has_city": "",
+        "is_fortified": ""
+    },
+    "27": {
+        "owner": "",
+        "troops": "",
+        "has_city": "",
+        "is_fortified": ""
+    },
+    "28": {
+        "owner": "",
+        "troops": "",
+        "has_city": "",
+        "is_fortified": ""
+    },
+    "29": {
+        "owner": "",
+        "troops": "",
+        "has_city": "",
+        "is_fortified": ""
+    },
+    "30": {
+        "owner": "",
+        "troops": "",
+        "has_city": "",
+        "is_fortified": ""
+    },
+    "31": {
+        "owner": "",
+        "troops": "",
+        "has_city": "",
+        "is_fortified": ""
+    },
+    "32": {
+        "owner": "",
+        "troops": "",
+        "has_city": "",
+        "is_fortified": ""
+    },
+    "33": {
+        "owner": "",
+        "troops": "",
+        "has_city": "",
+        "is_fortified": ""
+    },
+    "34": {
+        "owner": "",
+        "troops": "",
+        "has_city": "",
+        "is_fortified": ""
+    },
+    "35": {
+        "owner": "",
+        "troops": "",
+        "has_city": "",
+        "is_fortified": ""
+    },
+    "36": {
+        "owner": "",
+        "troops": "",
+        "has_city": "",
+        "is_fortified": ""
+    },
+    "37": {
+        "owner": "",
+        "troops": "",
+        "has_city": "",
+        "is_fortified": ""
+    },
+    "38": {
+        "owner": "",
+        "troops": "",
+        "has_city": "",
+        "is_fortified": ""
+    },
+    "39": {
+        "owner": "",
+        "troops": "",
+        "has_city": "",
+        "is_fortified": ""
+    },
+    "40": {
+        "owner": "",
+        "troops": "",
+        "has_city": "",
+        "is_fortified": ""
+    },
+    "41": {
+        "owner": "",
+        "troops": "",
+        "has_city": "",
+        "is_fortified": ""
+    },
+    "42": {
+        "owner": "",
+        "troops": "",
+        "has_city": "",
+        "is_fortified": ""
+    },
+    "43": {
+        "owner": "",
+        "troops": "",
+        "has_city": "",
+        "is_fortified": ""
+    },
+    "44": {
+        "owner": "",
+        "troops": "",
+        "has_city": "",
+        "is_fortified": ""
+    },
+    "45": {
+        "owner": "",
+        "troops": "",
+        "has_city": "",
+        "is_fortified": ""
+    },
+    "46": {
+        "owner": "",
+        "troops": "",
+        "has_city": "",
+        "is_fortified": ""
+    },
+    "47": {
+        "owner": "",
+        "troops": "",
+        "has_city": "",
+        "is_fortified": ""
+    },
+    "48": {
+        "owner": "",
+        "troops": "",
+        "has_city": "",
+        "is_fortified": ""
+    },
+    "49": {
+        "owner": "",
+        "troops": "",
+        "has_city": "",
+        "is_fortified": ""
+    },
+    "50": {
+        "owner": "",
+        "troops": "",
+        "has_city": "",
+        "is_fortified": ""
+    },
+    "51": {
+        "owner": "",
+        "troops": "",
+        "has_city": "",
+        "is_fortified": ""
+    },
+    "52": {
+        "owner": "",
+        "troops": "",
+        "has_city": "",
+        "is_fortified": ""
+    },
+    "53": {
+        "owner": "",
+        "troops": "",
+        "has_city": "",
+        "is_fortified": ""
+    },
+    "54": {
+        "owner": "",
+        "troops": "",
+        "has_city": "",
+        "is_fortified": ""
+    },
+    "55": {
+        "owner": "",
+        "troops": "",
+        "has_city": "",
+        "is_fortified": ""
+    },
+    "56": {
+        "owner": "",
+        "troops": "",
+        "has_city": "",
+        "is_fortified": ""
+    },
+    "57": {
+        "owner": "",
+        "troops": "",
+        "has_city": "",
+        "is_fortified": ""
+    },
+    "58": {
+        "owner": "",
+        "troops": "",
+        "has_city": "",
+        "is_fortified": ""
+    },
+    "59": {
+        "owner": "",
+        "troops": "",
+        "has_city": "",
+        "is_fortified": ""
+    },
+    "60": {
+        "owner": "",
+        "troops": "",
+        "has_city": "",
+        "is_fortified": ""
+    },
+    "61": {
+        "owner": "",
+        "troops": "",
+        "has_city": "",
+        "is_fortified": ""
+    },
+    "62": {
+        "owner": "",
+        "troops": "",
+        "has_city": "",
+        "is_fortified": ""
+    },
+    "63": {
+        "owner": "",
+        "troops": "",
+        "has_city": "",
+        "is_fortified": ""
+    },
+    "64": {
+        "owner": "",
+        "troops": "",
+        "has_city": "",
+        "is_fortified": ""
+    },
+    "65": {
+        "owner": "",
+        "troops": "",
+        "has_city": "",
+        "is_fortified": ""
+    },
+    "66": {
+        "owner": "",
+        "troops": "",
+        "has_city": "",
+        "is_fortified": ""
+    },
+    "67": {
+        "owner": "",
+        "troops": "",
+        "has_city": "",
+        "is_fortified": ""
+    },
+    "68": {
+        "owner": "",
+        "troops": "",
+        "has_city": "",
+        "is_fortified": ""
+    },
+    "69": {
+        "owner": "",
+        "troops": "",
+        "has_city": "",
+        "is_fortified": ""
+    },
+    "70": {
+        "owner": "",
+        "troops": "",
+        "has_city": "",
+        "is_fortified": ""
+    },
+    "71": {
+        "owner": "",
+        "troops": "",
+        "has_city": "",
+        "is_fortified": ""
+    },
+    "72": {
+        "owner": "",
+        "troops": "",
+        "has_city": "",
+        "is_fortified": ""
+    },
+    "73": {
+        "owner": "",
+        "troops": "",
+        "has_city": "",
+        "is_fortified": ""
+    },
+    "74": {
+        "owner": "",
+        "troops": "",
+        "has_city": "",
+        "is_fortified": ""
+    },
+    "75": {
+        "owner": "",
+        "troops": "",
+        "has_city": "",
+        "is_fortified": ""
+    },
+    "76": {
+        "owner": "",
+        "troops": "",
+        "has_city": "",
+        "is_fortified": ""
+    },
+    "77": {
+        "owner": "",
+        "troops": "",
+        "has_city": "",
+        "is_fortified": ""
+    },
+    "78": {
+        "owner": "",
+        "troops": "",
+        "has_city": "",
+        "is_fortified": ""
+    },
+    "79": {
+        "owner": "",
+        "troops": "",
+        "has_city": "",
+        "is_fortified": ""
+    },
+    "80": {
+        "owner": "",
+        "troops": "",
+        "has_city": "",
+        "is_fortified": ""
+    },
+    "81": {
+        "owner": "",
+        "troops": "",
+        "has_city": "",
+        "is_fortified": ""
+    },
+    "82": {
+        "owner": "",
+        "troops": "",
+        "has_city": "",
+        "is_fortified": ""
+    },
+    "83": {
+        "owner": "",
+        "troops": "",
+        "has_city": "",
+        "is_fortified": ""
+    },
+    "84": {
+        "owner": "",
+        "troops": "",
+        "has_city": "",
+        "is_fortified": ""
+    },
+    "85": {
+        "owner": "",
+        "troops": "",
+        "has_city": "",
+        "is_fortified": ""
+    },
+    "86": {
+        "owner": "",
+        "troops": "",
+        "has_city": "",
+        "is_fortified": ""
+    },
+    "87": {
+        "owner": "",
+        "troops": "",
+        "has_city": "",
+        "is_fortified": ""
+    },
+    "88": {
+        "owner": "",
+        "troops": "",
+        "has_city": "",
+        "is_fortified": ""
+    },
+    "89": {
+        "owner": "",
+        "troops": "",
+        "has_city": "",
+        "is_fortified": ""
+    },
+    "90": {
+        "owner": "",
+        "troops": "",
+        "has_city": "",
+        "is_fortified": ""
+    },
+    "91": {
+        "owner": "",
+        "troops": "",
+        "has_city": "",
+        "is_fortified": ""
+    },
+    "92": {
+        "owner": "",
+        "troops": "",
+        "has_city": "",
+        "is_fortified": ""
+    },
+    "93": {
+        "owner": "",
+        "troops": "",
+        "has_city": "",
+        "is_fortified": ""
+    },
+    "94": {
+        "owner": "",
+        "troops": "",
+        "has_city": "",
+        "is_fortified": ""
+    },
+    "95": {
+        "owner": "",
+        "troops": "",
+        "has_city": "",
+        "is_fortified": ""
+    },
+    "96": {
+        "owner": "",
+        "troops": "",
+        "has_city": "",
+        "is_fortified": ""
+    },
+    "97": {
+        "owner": "",
+        "troops": "",
+        "has_city": "",
+        "is_fortified": ""
+    },
+    "98": {
+        "owner": "",
+        "troops": "",
+        "has_city": "",
+        "is_fortified": ""
+    },
+    "99": {
+        "owner": "",
+        "troops": "",
+        "has_city": "",
+        "is_fortified": ""
+    },
+    "100": {
+        "owner": "",
+        "troops": "",
+        "has_city": "",
+        "is_fortified": ""
+    },
+    "101": {
+        "owner": "",
+        "troops": "",
+        "has_city": "",
+        "is_fortified": ""
+    },
+    "102": {
+        "owner": "",
+        "troops": "",
+        "has_city": "",
+        "is_fortified": ""
+    },
+    "103": {
+        "owner": "",
+        "troops": "",
+        "has_city": "",
+        "is_fortified": ""
+    },
+    "104": {
+        "owner": "",
+        "troops": "",
+        "has_city": "",
+        "is_fortified": ""
+    },
+    "105": {
+        "owner": "",
+        "troops": "",
+        "has_city": "",
+        "is_fortified": ""
+    },
+    "106": {
+        "owner": "",
+        "troops": "",
+        "has_city": "",
+        "is_fortified": ""
+    },
+    "107": {
+        "owner": "",
+        "troops": "",
+        "has_city": "",
+        "is_fortified": ""
+    },
+    "108": {
+        "owner": "",
+        "troops": "",
+        "has_city": "",
+        "is_fortified": ""
+    },
+    "109": {
+        "owner": "",
+        "troops": "",
+        "has_city": "",
+        "is_fortified": ""
+    },
+    "110": {
+        "owner": "",
+        "troops": "",
+        "has_city": "",
+        "is_fortified": ""
+    },
+    "111": {
+        "owner": "",
+        "troops": "",
+        "has_city": "",
+        "is_fortified": ""
+    },
+    "112": {
+        "owner": "",
+        "troops": "",
+        "has_city": "",
+        "is_fortified": ""
+    },
+    "113": {
+        "owner": "",
+        "troops": "",
+        "has_city": "",
+        "is_fortified": ""
+    },
+    "114": {
+        "owner": "",
+        "troops": "",
+        "has_city": "",
+        "is_fortified": ""
+    },
+    "115": {
+        "owner": "",
+        "troops": "",
+        "has_city": "",
+        "is_fortified": ""
+    },
+    "116": {
+        "owner": "",
+        "troops": "",
+        "has_city": "",
+        "is_fortified": ""
+    },
+    "117": {
+        "owner": "",
+        "troops": "",
+        "has_city": "",
+        "is_fortified": ""
+    },
+    "118": {
+        "owner": "",
+        "troops": "",
+        "has_city": "",
+        "is_fortified": ""
+    },
+    "119": {
+        "owner": "",
+        "troops": "",
+        "has_city": "",
+        "is_fortified": ""
+    },
+    "120": {
+        "owner": "",
+        "troops": "",
+        "has_city": "",
+        "is_fortified": ""
+    },
+    "121": {
+        "owner": "",
+        "troops": "",
+        "has_city": "",
+        "is_fortified": ""
+    },
+    "122": {
+        "owner": "",
+        "troops": "",
+        "has_city": "",
+        "is_fortified": ""
+    },
+    "123": {
+        "owner": "",
+        "troops": "",
+        "has_city": "",
+        "is_fortified": ""
+    },
+    "124": {
+        "owner": "",
+        "troops": "",
+        "has_city": "",
+        "is_fortified": ""
+    },
+    "125": {
+        "owner": "",
+        "troops": "",
+        "has_city": "",
+        "is_fortified": ""
+    },
+    "126": {
+        "owner": "",
+        "troops": "",
+        "has_city": "",
+        "is_fortified": ""
+    },
+    "127": {
+        "owner": "",
+        "troops": "",
+        "has_city": "",
+        "is_fortified": ""
+    },
+    "128": {
+        "owner": "",
+        "troops": "",
+        "has_city": "",
+        "is_fortified": ""
+    },
+    "129": {
+        "owner": "",
+        "troops": "",
+        "has_city": "",
+        "is_fortified": ""
+    },
+    "130": {
+        "owner": "",
+        "troops": "",
+        "has_city": "",
+        "is_fortified": ""
+    },
+    "131": {
+        "owner": "",
+        "troops": "",
+        "has_city": "",
+        "is_fortified": ""
+    },
+    "132": {
+        "owner": "",
+        "troops": "",
+        "has_city": "",
+        "is_fortified": ""
+    },
+    "133": {
+        "owner": "",
+        "troops": "",
+        "has_city": "",
+        "is_fortified": ""
+    },
+    "134": {
+        "owner": "",
+        "troops": "",
+        "has_city": "",
+        "is_fortified": ""
+    },
+    "135": {
+        "owner": "",
+        "troops": "",
+        "has_city": "",
+        "is_fortified": ""
+    },
+    "136": {
+        "owner": "",
+        "troops": "",
+        "has_city": "",
+        "is_fortified": ""
+    },
+    "137": {
+        "owner": "",
+        "troops": "",
+        "has_city": "",
+        "is_fortified": ""
+    },
+    "138": {
+        "owner": "",
+        "troops": "",
+        "has_city": "",
+        "is_fortified": ""
+    },
+    "139": {
+        "owner": "",
+        "troops": "",
+        "has_city": "",
+        "is_fortified": ""
+    },
+    "140": {
+        "owner": "",
+        "troops": "",
+        "has_city": "",
+        "is_fortified": ""
+    },
+    "141": {
+        "owner": "",
+        "troops": "",
+        "has_city": "",
+        "is_fortified": ""
+    },
+    "142": {
+        "owner": "",
+        "troops": "",
+        "has_city": "",
+        "is_fortified": ""
+    },
+    "143": {
+        "owner": "",
+        "troops": "",
+        "has_city": "",
+        "is_fortified": ""
+    },
+    "144": {
+        "owner": "",
+        "troops": "",
+        "has_city": "",
+        "is_fortified": ""
+    },
+    "145": {
+        "owner": "",
+        "troops": "",
+        "has_city": "",
+        "is_fortified": ""
+    },
+    "146": {
+        "owner": "",
+        "troops": "",
+        "has_city": "",
+        "is_fortified": ""
+    },
+    "147": {
+        "owner": "",
+        "troops": "",
+        "has_city": "",
+        "is_fortified": ""
+    },
+    "148": {
+        "owner": "",
+        "troops": "",
+        "has_city": "",
+        "is_fortified": ""
+    },
+    "149": {
+        "owner": "",
+        "troops": "",
+        "has_city": "",
+        "is_fortified": ""
+    },
+    "150": {
+        "owner": "",
+        "troops": "",
+        "has_city": "",
+        "is_fortified": ""
+    },
+    "151": {
+        "owner": "",
+        "troops": "",
+        "has_city": "",
+        "is_fortified": ""
+    },
+    "152": {
+        "owner": "",
+        "troops": "",
+        "has_city": "",
+        "is_fortified": ""
+    },
+    "153": {
+        "owner": "",
+        "troops": "",
+        "has_city": "",
+        "is_fortified": ""
+    },
+    "154": {
+        "owner": "",
+        "troops": "",
+        "has_city": "",
+        "is_fortified": ""
+    },
+    "155": {
+        "owner": "",
+        "troops": "",
+        "has_city": "",
+        "is_fortified": ""
+    },
+    "156": {
+        "owner": "",
+        "troops": "",
+        "has_city": "",
+        "is_fortified": ""
+    },
+    "157": {
+        "owner": "",
+        "troops": "",
+        "has_city": "",
+        "is_fortified": ""
+    },
+    "158": {
+        "owner": "",
+        "troops": "",
+        "has_city": "",
+        "is_fortified": ""
+    },
+    "159": {
+        "owner": "",
+        "troops": "",
+        "has_city": "",
+        "is_fortified": ""
+    },
+    "160": {
+        "owner": "",
+        "troops": "",
+        "has_city": "",
+        "is_fortified": ""
+    },
+    "161": {
+        "owner": "",
+        "troops": "",
+        "has_city": "",
+        "is_fortified": ""
+    },
+    "162": {
+        "owner": "",
+        "troops": "",
+        "has_city": "",
+        "is_fortified": ""
+    },
+    "163": {
+        "owner": "",
+        "troops": "",
+        "has_city": "",
+        "is_fortified": ""
+    },
+    "164": {
+        "owner": "",
+        "troops": "",
+        "has_city": "",
+        "is_fortified": ""
+    },
+    "165": {
+        "owner": "",
+        "troops": "",
+        "has_city": "",
+        "is_fortified": ""
+    },
+    "166": {
+        "owner": "",
+        "troops": "",
+        "has_city": "",
+        "is_fortified": ""
+    },
+    "167": {
+        "owner": "",
+        "troops": "",
+        "has_city": "",
+        "is_fortified": ""
+    },
+    "168": {
+        "owner": "",
+        "troops": "",
+        "has_city": "",
+        "is_fortified": ""
+    },
+    "169": {
+        "owner": "",
+        "troops": "",
+        "has_city": "",
+        "is_fortified": ""
+    },
+    "170": {
+        "owner": "",
+        "troops": "",
+        "has_city": "",
+        "is_fortified": ""
+    },
+    "171": {
+        "owner": "",
+        "troops": "",
+        "has_city": "",
+        "is_fortified": ""
+    },
+    "172": {
+        "owner": "",
+        "troops": "",
+        "has_city": "",
+        "is_fortified": ""
+    },
+    "173": {
+        "owner": "",
+        "troops": "",
+        "has_city": "",
+        "is_fortified": ""
+    },
+    "174": {
+        "owner": "",
+        "troops": "",
+        "has_city": "",
+        "is_fortified": ""
+    },
+    "175": {
+        "owner": "",
+        "troops": "",
+        "has_city": "",
+        "is_fortified": ""
+    },
+    "176": {
+        "owner": "",
+        "troops": "",
+        "has_city": "",
+        "is_fortified": ""
+    },
+    "177": {
+        "owner": "",
+        "troops": "",
+        "has_city": "",
+        "is_fortified": ""
+    },
+    "178": {
+        "owner": "",
+        "troops": "",
+        "has_city": "",
+        "is_fortified": ""
+    },
+    "179": {
+        "owner": "",
+        "troops": "",
+        "has_city": "",
+        "is_fortified": ""
+    },
+    "180": {
+        "owner": "",
+        "troops": "",
+        "has_city": "",
+        "is_fortified": ""
+    },
+    "181": {
+        "owner": "",
+        "troops": "",
+        "has_city": "",
+        "is_fortified": ""
+    },
+    "182": {
+        "owner": "",
+        "troops": "",
+        "has_city": "",
+        "is_fortified": ""
+    },
+    "183": {
+        "owner": "",
+        "troops": "",
+        "has_city": "",
+        "is_fortified": ""
+    },
+    "184": {
+        "owner": "",
+        "troops": "",
+        "has_city": "",
+        "is_fortified": ""
+    },
+    "185": {
+        "owner": "",
+        "troops": "",
+        "has_city": "",
+        "is_fortified": ""
+    },
+    "186": {
+        "owner": "",
+        "troops": "",
+        "has_city": "",
+        "is_fortified": ""
+    },
+    "187": {
+        "owner": "",
+        "troops": "",
+        "has_city": "",
+        "is_fortified": ""
+    },
+    "188": {
+        "owner": "",
+        "troops": "",
+        "has_city": "",
+        "is_fortified": ""
+    },
+    "189": {
+        "owner": "",
+        "troops": "",
+        "has_city": "",
+        "is_fortified": ""
+    },
+    "190": {
+        "owner": "",
+        "troops": "",
+        "has_city": "",
+        "is_fortified": ""
+    },
+    "191": {
+        "owner": "",
+        "troops": "",
+        "has_city": "",
+        "is_fortified": ""
+    },
+    "192": {
+        "owner": "",
+        "troops": "",
+        "has_city": "",
+        "is_fortified": ""
+    },
+    "193": {
+        "owner": "",
+        "troops": "",
+        "has_city": "",
+        "is_fortified": ""
+    },
+    "194": {
+        "owner": "",
+        "troops": "",
+        "has_city": "",
+        "is_fortified": ""
+    },
+    "195": {
+        "owner": "",
+        "troops": "",
+        "has_city": "",
+        "is_fortified": ""
+    },
+    "196": {
+        "owner": "",
+        "troops": "",
+        "has_city": "",
+        "is_fortified": ""
+    },
+    "197": {
+        "owner": "",
+        "troops": "",
+        "has_city": "",
+        "is_fortified": ""
+    },
+    "198": {
+        "owner": "",
+        "troops": "",
+        "has_city": "",
+        "is_fortified": ""
+    },
+    "199": {
+        "owner": "",
+        "troops": "",
+        "has_city": "",
+        "is_fortified": ""
+    },
+    "200": {
+        "owner": "",
+        "troops": "",
+        "has_city": "",
+        "is_fortified": ""
+    },
+    "201": {
+        "owner": "",
+        "troops": "",
+        "has_city": "",
+        "is_fortified": ""
+    },
+    "202": {
+        "owner": "",
+        "troops": "",
+        "has_city": "",
+        "is_fortified": ""
+    },
+    "203": {
+        "owner": "",
+        "troops": "",
+        "has_city": "",
+        "is_fortified": ""
+    },
+    "204": {
+        "owner": "",
+        "troops": "",
+        "has_city": "",
+        "is_fortified": ""
+    },
+    "205": {
+        "owner": "",
+        "troops": "",
+        "has_city": "",
+        "is_fortified": ""
+    },
+    "206": {
+        "owner": "",
+        "troops": "",
+        "has_city": "",
+        "is_fortified": ""
+    },
+    "207": {
+        "owner": "",
+        "troops": "",
+        "has_city": "",
+        "is_fortified": ""
+    },
+    "208": {
+        "owner": "",
+        "troops": "",
+        "has_city": "",
+        "is_fortified": ""
+    },
+    "209": {
+        "owner": "",
+        "troops": "",
+        "has_city": "",
+        "is_fortified": ""
+    },
+    "210": {
+        "owner": "",
+        "troops": "",
+        "has_city": "",
+        "is_fortified": ""
+    },
+    "211": {
+        "owner": "",
+        "troops": "",
+        "has_city": "",
+        "is_fortified": ""
+    },
+    "212": {
+        "owner": "",
+        "troops": "",
+        "has_city": "",
+        "is_fortified": ""
+    },
+    "213": {
+        "owner": "",
+        "troops": "",
+        "has_city": "",
+        "is_fortified": ""
+    },
+    "214": {
+        "owner": "",
+        "troops": "",
+        "has_city": "",
+        "is_fortified": ""
+    },
+    "215": {
+        "owner": "",
+        "troops": "",
+        "has_city": "",
+        "is_fortified": ""
+    },
+    "216": {
+        "owner": "",
+        "troops": "",
+        "has_city": "",
+        "is_fortified": ""
+    },
+    "217": {
+        "owner": "",
+        "troops": "",
+        "has_city": "",
+        "is_fortified": ""
+    },
+    "218": {
+        "owner": "",
+        "troops": "",
+        "has_city": "",
+        "is_fortified": ""
+    },
+    "219": {
+        "owner": "",
+        "troops": "",
+        "has_city": "",
+        "is_fortified": ""
+    },
+    "220": {
+        "owner": "",
+        "troops": "",
+        "has_city": "",
+        "is_fortified": ""
+    },
+    "221": {
+        "owner": "",
+        "troops": "",
+        "has_city": "",
+        "is_fortified": ""
+    },
+    "222": {
+        "owner": "",
+        "troops": "",
+        "has_city": "",
+        "is_fortified": ""
+    },
+    "223": {
+        "owner": "",
+        "troops": "",
+        "has_city": "",
+        "is_fortified": ""
+    },
+    "224": {
+        "owner": "",
+        "troops": "",
+        "has_city": "",
+        "is_fortified": ""
+    },
+    "225": {
+        "owner": "",
+        "troops": "",
+        "has_city": "",
+        "is_fortified": ""
+    },
+    "226": {
+        "owner": "",
+        "troops": "",
+        "has_city": "",
+        "is_fortified": ""
+    },
+    "227": {
+        "owner": "",
+        "troops": "",
+        "has_city": "",
+        "is_fortified": ""
+    },
+    "228": {
+        "owner": "",
+        "troops": "",
+        "has_city": "",
+        "is_fortified": ""
+    },
+    "229": {
+        "owner": "",
+        "troops": "",
+        "has_city": "",
+        "is_fortified": ""
+    },
+    "230": {
+        "owner": "",
+        "troops": "",
+        "has_city": "",
+        "is_fortified": ""
+    },
+    "231": {
+        "owner": "",
+        "troops": "",
+        "has_city": "",
+        "is_fortified": ""
+    },
+    "232": {
+        "owner": "",
+        "troops": "",
+        "has_city": "",
+        "is_fortified": ""
+    },
+    "233": {
+        "owner": "",
+        "troops": "",
+        "has_city": "",
+        "is_fortified": ""
+    },
+    "234": {
+        "owner": "",
+        "troops": "",
+        "has_city": "",
+        "is_fortified": ""
+    },
+    "235": {
+        "owner": "",
+        "troops": "",
+        "has_city": "",
+        "is_fortified": ""
+    },
+    "236": {
+        "owner": "",
+        "troops": "",
+        "has_city": "",
+        "is_fortified": ""
+    },
+    "237": {
+        "owner": "",
+        "troops": "",
+        "has_city": "",
+        "is_fortified": ""
+    },
+    "238": {
+        "owner": "",
+        "troops": "",
+        "has_city": "",
+        "is_fortified": ""
+    },
+    "239": {
+        "owner": "",
+        "troops": "",
+        "has_city": "",
+        "is_fortified": ""
+    },
+    "240": {
+        "owner": "",
+        "troops": "",
+        "has_city": "",
+        "is_fortified": ""
+    },
+    "241": {
+        "owner": "",
+        "troops": "",
+        "has_city": "",
+        "is_fortified": ""
+    },
+    "242": {
+        "owner": "",
+        "troops": "",
+        "has_city": "",
+        "is_fortified": ""
+    },
+    "243": {
+        "owner": "",
+        "troops": "",
+        "has_city": "",
+        "is_fortified": ""
+    },
+    "244": {
+        "owner": "",
+        "troops": "",
+        "has_city": "",
+        "is_fortified": ""
+    },
+    "245": {
+        "owner": "",
+        "troops": "",
+        "has_city": "",
+        "is_fortified": ""
+    },
+    "246": {
+        "owner": "",
+        "troops": "",
+        "has_city": "",
+        "is_fortified": ""
+    },
+    "247": {
+        "owner": "",
+        "troops": "",
+        "has_city": "",
+        "is_fortified": ""
+    },
+    "248": {
+        "owner": "",
+        "troops": "",
+        "has_city": "",
+        "is_fortified": ""
+    },
+    "249": {
+        "owner": "",
+        "troops": "",
+        "has_city": "",
+        "is_fortified": ""
+    },
+    "250": {
+        "owner": "",
+        "troops": "",
+        "has_city": "",
+        "is_fortified": ""
+    },
+    "251": {
+        "owner": "",
+        "troops": "",
+        "has_city": "",
+        "is_fortified": ""
+    },
+    "252": {
+        "owner": "",
+        "troops": "",
+        "has_city": "",
+        "is_fortified": ""
+    },
+    "253": {
+        "owner": "",
+        "troops": "",
+        "has_city": "",
+        "is_fortified": ""
+    },
+    "254": {
+        "owner": "",
+        "troops": "",
+        "has_city": "",
+        "is_fortified": ""
+    },
+    "255": {
+        "owner": "",
+        "troops": "",
+        "has_city": "",
+        "is_fortified": ""
+    },
+    "256": {
+        "owner": "",
+        "troops": "",
+        "has_city": "",
+        "is_fortified": ""
+    },
+    "257": {
+        "owner": "",
+        "troops": "",
+        "has_city": "",
+        "is_fortified": ""
+    },
+    "258": {
+        "owner": "",
+        "troops": "",
+        "has_city": "",
+        "is_fortified": ""
+    },
+    "259": {
+        "owner": "",
+        "troops": "",
+        "has_city": "",
+        "is_fortified": ""
+    },
+    "260": {
+        "owner": "",
+        "troops": "",
+        "has_city": "",
+        "is_fortified": ""
+    },
+    "261": {
+        "owner": "",
+        "troops": "",
+        "has_city": "",
+        "is_fortified": ""
+    },
+    "262": {
+        "owner": "",
+        "troops": "",
+        "has_city": "",
+        "is_fortified": ""
+    },
+    "263": {
+        "owner": "",
+        "troops": "",
+        "has_city": "",
+        "is_fortified": ""
+    },
+    "264": {
+        "owner": "",
+        "troops": "",
+        "has_city": "",
+        "is_fortified": ""
+    },
+    "265": {
+        "owner": "",
+        "troops": "",
+        "has_city": "",
+        "is_fortified": ""
+    },
+    "266": {
+        "owner": "",
+        "troops": "",
+        "has_city": "",
+        "is_fortified": ""
+    },
+    "267": {
+        "owner": "",
+        "troops": "",
+        "has_city": "",
+        "is_fortified": ""
+    },
+    "268": {
+        "owner": "",
+        "troops": "",
+        "has_city": "",
+        "is_fortified": ""
+    },
+    "269": {
+        "owner": "",
+        "troops": "",
+        "has_city": "",
+        "is_fortified": ""
+    },
+    "270": {
+        "owner": "None",
+        "troops": 0,
+        "has_city": false,
+        "is_fortified": false
+    },
+    "271": {
+        "owner": "",
+        "troops": "",
+        "has_city": "",
+        "is_fortified": ""
+    },
+    "272": {
+        "owner": "",
+        "troops": "",
+        "has_city": "",
+        "is_fortified": ""
+    },
+    "273": {
+        "owner": "",
+        "troops": "",
+        "has_city": "",
+        "is_fortified": ""
+    },
+    "274": {
+        "owner": "",
+        "troops": "",
+        "has_city": "",
+        "is_fortified": ""
+    },
+    "275": {
+        "owner": "",
+        "troops": "",
+        "has_city": "",
+        "is_fortified": ""
+    },
+    "276": {
+        "owner": "",
+        "troops": "",
+        "has_city": "",
+        "is_fortified": ""
+    },
+    "277": {
+        "owner": "",
+        "troops": "",
+        "has_city": "",
+        "is_fortified": ""
+    },
+    "278": {
+        "owner": "",
+        "troops": "",
+        "has_city": "",
+        "is_fortified": ""
+    },
+    "279": {
+        "owner": "",
+        "troops": "",
+        "has_city": "",
+        "is_fortified": ""
+    },
+    "280": {
+        "owner": "",
+        "troops": "",
+        "has_city": "",
+        "is_fortified": ""
+    },
+    "281": {
+        "owner": "",
+        "troops": "",
+        "has_city": "",
+        "is_fortified": ""
+    },
+    "282": {
+        "owner": "",
+        "troops": "",
+        "has_city": "",
+        "is_fortified": ""
+    },
+    "283": {
+        "owner": "",
+        "troops": "",
+        "has_city": "",
+        "is_fortified": ""
+    },
+    "284": {
+        "owner": "",
+        "troops": "",
+        "has_city": "",
+        "is_fortified": ""
+    },
+    "285": {
+        "owner": "",
+        "troops": "",
+        "has_city": "",
+        "is_fortified": ""
+    },
+    "286": {
+        "owner": "",
+        "troops": "",
+        "has_city": "",
+        "is_fortified": ""
+    },
+    "287": {
+        "owner": "",
+        "troops": "",
+        "has_city": "",
+        "is_fortified": ""
+    },
+    "288": {
+        "owner": "",
+        "troops": "",
+        "has_city": "",
+        "is_fortified": ""
+    },
+    "289": {
+        "owner": "",
+        "troops": "",
+        "has_city": "",
+        "is_fortified": ""
+    },
+    "290": {
+        "owner": "",
+        "troops": "",
+        "has_city": "",
+        "is_fortified": ""
+    },
+    "291": {
+        "owner": "",
+        "troops": "",
+        "has_city": "",
+        "is_fortified": ""
+    },
+    "292": {
+        "owner": "",
+        "troops": "",
+        "has_city": "",
+        "is_fortified": ""
+    },
+    "293": {
+        "owner": "",
+        "troops": "",
+        "has_city": "",
+        "is_fortified": ""
+    },
+    "294": {
+        "owner": "",
+        "troops": "",
+        "has_city": "",
+        "is_fortified": ""
+    },
+    "295": {
+        "owner": "",
+        "troops": "",
+        "has_city": "",
+        "is_fortified": ""
+    },
+    "296": {
+        "owner": "",
+        "troops": "",
+        "has_city": "",
+        "is_fortified": ""
+    },
+    "297": {
+        "owner": "",
+        "troops": "",
+        "has_city": "",
+        "is_fortified": ""
+    },
+    "298": {
+        "owner": "",
+        "troops": "",
+        "has_city": "",
+        "is_fortified": ""
+    },
+    "299": {
+        "owner": "",
+        "troops": "",
+        "has_city": "",
+        "is_fortified": ""
+    },
+    "300": {
+        "owner": "",
+        "troops": "",
+        "has_city": "",
+        "is_fortified": ""
+    },
+    "301": {
+        "owner": "",
+        "troops": "",
+        "has_city": "",
+        "is_fortified": ""
+    },
+    "302": {
+        "owner": "",
+        "troops": "",
+        "has_city": "",
+        "is_fortified": ""
+    },
+    "303": {
+        "owner": "",
+        "troops": "",
+        "has_city": "",
+        "is_fortified": ""
+    },
+    "304": {
+        "owner": "",
+        "troops": "",
+        "has_city": "",
+        "is_fortified": ""
+    },
+    "305": {
+        "owner": "",
+        "troops": "",
+        "has_city": "",
+        "is_fortified": ""
+    },
+    "306": {
+        "owner": "",
+        "troops": "",
+        "has_city": "",
+        "is_fortified": ""
+    },
+    "307": {
+        "owner": "",
+        "troops": "",
+        "has_city": "",
+        "is_fortified": ""
+    },
+    "308": {
+        "owner": "",
+        "troops": "",
+        "has_city": "",
+        "is_fortified": ""
+    },
+    "309": {
+        "owner": "",
+        "troops": "",
+        "has_city": "",
+        "is_fortified": ""
+    },
+    "310": {
+        "owner": "",
+        "troops": "",
+        "has_city": "",
+        "is_fortified": ""
+    },
+    "311": {
+        "owner": "",
+        "troops": "",
+        "has_city": "",
+        "is_fortified": ""
+    },
+    "312": {
+        "owner": "",
+        "troops": "",
+        "has_city": "",
+        "is_fortified": ""
+    },
+    "313": {
+        "owner": "",
+        "troops": "",
+        "has_city": "",
+        "is_fortified": ""
+    },
+    "314": {
+        "owner": "",
+        "troops": "",
+        "has_city": "",
+        "is_fortified": ""
+    },
+    "315": {
+        "owner": "",
+        "troops": "",
+        "has_city": "",
+        "is_fortified": ""
+    },
+    "316": {
+        "owner": "",
+        "troops": "",
+        "has_city": "",
+        "is_fortified": ""
+    },
+    "317": {
+        "owner": "",
+        "troops": "",
+        "has_city": "",
+        "is_fortified": ""
+    },
+    "318": {
+        "owner": "",
+        "troops": "",
+        "has_city": "",
+        "is_fortified": ""
+    },
+    "319": {
+        "owner": "",
+        "troops": "",
+        "has_city": "",
+        "is_fortified": ""
+    },
+    "320": {
+        "owner": "",
+        "troops": "",
+        "has_city": "",
+        "is_fortified": ""
+    },
+    "321": {
+        "owner": "",
+        "troops": "",
+        "has_city": "",
+        "is_fortified": ""
+    },
+    "322": {
+        "owner": "",
+        "troops": "",
+        "has_city": "",
+        "is_fortified": ""
+    },
+    "323": {
+        "owner": "",
+        "troops": "",
+        "has_city": "",
+        "is_fortified": ""
+    },
+    "324": {
+        "owner": "",
+        "troops": "",
+        "has_city": "",
+        "is_fortified": ""
+    },
+    "325": {
+        "owner": "",
+        "troops": "",
+        "has_city": "",
+        "is_fortified": ""
+    },
+    "326": {
+        "owner": "",
+        "troops": "",
+        "has_city": "",
+        "is_fortified": ""
+    },
+    "327": {
+        "owner": "",
+        "troops": "",
+        "has_city": "",
+        "is_fortified": ""
+    },
+    "328": {
+        "owner": "",
+        "troops": "",
+        "has_city": "",
+        "is_fortified": ""
+    },
+    "329": {
+        "owner": "",
+        "troops": "",
+        "has_city": "",
+        "is_fortified": ""
+    },
+    "330": {
+        "owner": "",
+        "troops": "",
+        "has_city": "",
+        "is_fortified": ""
+    },
+    "331": {
+        "owner": "",
+        "troops": "",
+        "has_city": "",
+        "is_fortified": ""
+    },
+    "332": {
+        "owner": "",
+        "troops": "",
+        "has_city": "",
+        "is_fortified": ""
+    },
+    "333": {
+        "owner": "",
+        "troops": "",
+        "has_city": "",
+        "is_fortified": ""
+    },
+    "334": {
+        "owner": "",
+        "troops": "",
+        "has_city": "",
+        "is_fortified": ""
+    },
+    "335": {
+        "owner": "",
+        "troops": "",
+        "has_city": "",
+        "is_fortified": ""
+    },
+    "336": {
+        "owner": "",
+        "troops": "",
+        "has_city": "",
+        "is_fortified": ""
+    },
+    "337": {
+        "owner": "",
+        "troops": "",
+        "has_city": "",
+        "is_fortified": ""
+    },
+    "338": {
+        "owner": "",
+        "troops": "",
+        "has_city": "",
+        "is_fortified": ""
+    },
+    "339": {
+        "owner": "",
+        "troops": "",
+        "has_city": "",
+        "is_fortified": ""
+    },
+    "340": {
+        "owner": "",
+        "troops": "",
+        "has_city": "",
+        "is_fortified": ""
+    },
+    "341": {
+        "owner": "",
+        "troops": "",
+        "has_city": "",
+        "is_fortified": ""
+    },
+    "342": {
+        "owner": "",
+        "troops": "",
+        "has_city": "",
+        "is_fortified": ""
+    },
+    "343": {
+        "owner": "",
+        "troops": "",
+        "has_city": "",
+        "is_fortified": ""
+    },
+    "344": {
+        "owner": "",
+        "troops": "",
+        "has_city": "",
+        "is_fortified": ""
+    },
+    "345": {
+        "owner": "",
+        "troops": "",
+        "has_city": "",
+        "is_fortified": ""
+    },
+    "346": {
+        "owner": "",
+        "troops": "",
+        "has_city": "",
+        "is_fortified": ""
+    },
+    "347": {
+        "owner": "",
+        "troops": "",
+        "has_city": "",
+        "is_fortified": ""
+    },
+    "348": {
+        "owner": "",
+        "troops": "",
+        "has_city": "",
+        "is_fortified": ""
+    },
+    "349": {
+        "owner": "",
+        "troops": "",
+        "has_city": "",
+        "is_fortified": ""
+    },
+    "350": {
+        "owner": "",
+        "troops": "",
+        "has_city": "",
+        "is_fortified": ""
+    },
+    "351": {
+        "owner": "",
+        "troops": "",
+        "has_city": "",
+        "is_fortified": ""
+    },
+    "352": {
+        "owner": "",
+        "troops": "",
+        "has_city": "",
+        "is_fortified": ""
+    },
+    "353": {
+        "owner": "",
+        "troops": "",
+        "has_city": "",
+        "is_fortified": ""
+    },
+    "354": {
+        "owner": "",
+        "troops": "",
+        "has_city": "",
+        "is_fortified": ""
+    },
+    "355": {
+        "owner": "",
+        "troops": "",
+        "has_city": "",
+        "is_fortified": ""
+    },
+    "356": {
+        "owner": "",
+        "troops": "",
+        "has_city": "",
+        "is_fortified": ""
+    },
+    "357": {
+        "owner": "",
+        "troops": "",
+        "has_city": "",
+        "is_fortified": ""
+    },
+    "358": {
+        "owner": "",
+        "troops": "",
+        "has_city": "",
+        "is_fortified": ""
+    },
+    "359": {
+        "owner": "",
+        "troops": "",
+        "has_city": "",
+        "is_fortified": ""
+    },
+    "360": {
+        "owner": "",
+        "troops": "",
+        "has_city": "",
+        "is_fortified": ""
+    },
+    "361": {
+        "owner": "",
+        "troops": "",
+        "has_city": "",
+        "is_fortified": ""
+    },
+    "362": {
+        "owner": "",
+        "troops": "",
+        "has_city": "",
+        "is_fortified": ""
+    },
+    "363": {
+        "owner": "",
+        "troops": "",
+        "has_city": "",
+        "is_fortified": ""
+    },
+    "364": {
+        "owner": "",
+        "troops": "",
+        "has_city": "",
+        "is_fortified": ""
+    },
+    "365": {
+        "owner": "",
+        "troops": "",
+        "has_city": "",
+        "is_fortified": ""
+    },
+    "366": {
+        "owner": "",
+        "troops": "",
+        "has_city": "",
+        "is_fortified": ""
+    },
+    "367": {
+        "owner": "",
+        "troops": "",
+        "has_city": "",
+        "is_fortified": ""
+    },
+    "368": {
+        "owner": "",
+        "troops": "",
+        "has_city": "",
+        "is_fortified": ""
+    },
+    "369": {
+        "owner": "",
+        "troops": "",
+        "has_city": "",
+        "is_fortified": ""
+    },
+    "370": {
+        "owner": "",
+        "troops": "",
+        "has_city": "",
+        "is_fortified": ""
+    },
+    "371": {
+        "owner": "",
+        "troops": "",
+        "has_city": "",
+        "is_fortified": ""
+    },
+    "372": {
+        "owner": "",
+        "troops": "",
+        "has_city": "",
+        "is_fortified": ""
+    },
+    "373": {
+        "owner": "",
+        "troops": "",
+        "has_city": "",
+        "is_fortified": ""
+    },
+    "374": {
+        "owner": "",
+        "troops": "",
+        "has_city": "",
+        "is_fortified": ""
+    },
+    "375": {
+        "owner": "",
+        "troops": "",
+        "has_city": "",
+        "is_fortified": ""
+    },
+    "376": {
+        "owner": "",
+        "troops": "",
+        "has_city": "",
+        "is_fortified": ""
+    },
+    "377": {
+        "owner": "",
+        "troops": "",
+        "has_city": "",
+        "is_fortified": ""
+    },
+    "378": {
+        "owner": "",
+        "troops": "",
+        "has_city": "",
+        "is_fortified": ""
+    },
+    "379": {
+        "owner": "",
+        "troops": "",
+        "has_city": "",
+        "is_fortified": ""
+    },
+    "380": {
+        "owner": "",
+        "troops": "",
+        "has_city": "",
+        "is_fortified": ""
+    },
+    "381": {
+        "owner": "",
+        "troops": "",
+        "has_city": "",
+        "is_fortified": ""
+    },
+    "382": {
+        "owner": "",
+        "troops": "",
+        "has_city": "",
+        "is_fortified": ""
+    },
+    "383": {
+        "owner": "",
+        "troops": "",
+        "has_city": "",
+        "is_fortified": ""
+    },
+    "384": {
+        "owner": "",
+        "troops": "",
+        "has_city": "",
+        "is_fortified": ""
+    },
+    "385": {
+        "owner": "",
+        "troops": "",
+        "has_city": "",
+        "is_fortified": ""
+    },
+    "386": {
+        "owner": "",
+        "troops": "",
+        "has_city": "",
+        "is_fortified": ""
+    },
+    "387": {
+        "owner": "",
+        "troops": "",
+        "has_city": "",
+        "is_fortified": ""
+    },
+    "388": {
+        "owner": "",
+        "troops": "",
+        "has_city": "",
+        "is_fortified": ""
+    },
+    "389": {
+        "owner": "",
+        "troops": "",
+        "has_city": "",
+        "is_fortified": ""
+    },
+    "390": {
+        "owner": "",
+        "troops": "",
+        "has_city": "",
+        "is_fortified": ""
+    },
+    "391": {
+        "owner": "",
+        "troops": "",
+        "has_city": "",
+        "is_fortified": ""
+    },
+    "392": {
+        "owner": "",
+        "troops": "",
+        "has_city": "",
+        "is_fortified": ""
+    },
+    "393": {
+        "owner": "",
+        "troops": "",
+        "has_city": "",
+        "is_fortified": ""
+    },
+    "394": {
+        "owner": "",
+        "troops": "",
+        "has_city": "",
+        "is_fortified": ""
+    },
+    "395": {
+        "owner": "",
+        "troops": "",
+        "has_city": "",
+        "is_fortified": ""
+    },
+    "396": {
+        "owner": "",
+        "troops": "",
+        "has_city": "",
+        "is_fortified": ""
+    },
+    "397": {
+        "owner": "",
+        "troops": "",
+        "has_city": "",
+        "is_fortified": ""
+    },
+    "398": {
+        "owner": "",
+        "troops": "",
+        "has_city": "",
+        "is_fortified": ""
+    },
+    "399": {
+        "owner": "",
+        "troops": "",
+        "has_city": "",
+        "is_fortified": ""
+    },
+    "400": {
+        "owner": "",
+        "troops": "",
+        "has_city": "",
+        "is_fortified": ""
+    },
+    "401": {
+        "owner": "",
+        "troops": "",
+        "has_city": "",
+        "is_fortified": ""
+    },
+    "402": {
+        "owner": "",
+        "troops": "",
+        "has_city": "",
+        "is_fortified": ""
+    },
+    "403": {
+        "owner": "",
+        "troops": "",
+        "has_city": "",
+        "is_fortified": ""
+    },
+    "404": {
+        "owner": "",
+        "troops": "",
+        "has_city": "",
+        "is_fortified": ""
+    },
+    "405": {
+        "owner": "",
+        "troops": "",
+        "has_city": "",
+        "is_fortified": ""
+    },
+    "406": {
+        "owner": "",
+        "troops": "",
+        "has_city": "",
+        "is_fortified": ""
+    },
+    "407": {
+        "owner": "",
+        "troops": "",
+        "has_city": "",
+        "is_fortified": ""
+    },
+    "408": {
+        "owner": "",
+        "troops": "",
+        "has_city": "",
+        "is_fortified": ""
+    },
+    "409": {
+        "owner": "None",
+        "troops": 0,
+        "has_city": false,
+        "is_fortified": false
+    }
+}

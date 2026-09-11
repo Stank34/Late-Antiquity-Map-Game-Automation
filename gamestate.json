@@ -294,10 +294,10 @@
         "is_fortified": ""
     },
     "50": {
-        "owner": "",
-        "troops": "",
-        "has_city": "",
-        "is_fortified": ""
+        "owner": "RomeW",
+        "troops": 50,
+        "has_city": false,
+        "is_fortified": false
     },
     "51": {
         "owner": "RomeW",

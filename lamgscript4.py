@@ -10,16 +10,61 @@ class MapGameEditor:
         # Load the files
         self.topology = self.load_json('topology.json', default={})
         self.gamestate = self.load_json('gamestate.json', default={})
+
+        self.player_colors = {
+            "RomeW": "#A80048",
+            "Rome": "#7F0037",
+            "Persia": "#FF6A00",
+            "Franks": "#00137F",
+            "Suebi": "#B5009C",
+            "Visigoths": "#B2CC41",
+            "Ostrogoths": "#0094B6",
+            "Saxons": "#FF8C77",
+            "Vandals": "#FF3A00",
+            "Lombards": "#777092",
+            "ArabAI": "#4BBC4B",
+            "Arabs": "#004000",
+            "AI": "#AFAFAF",
+            "Gepids": "#7F3300",
+            "Slavs": "#75A0C9",
+            "Avars": "#A3B2AC"
+        }
         
         # Ensure all territories in topology exist in the gamestate
         self.sync_gamestate()
 
-        # Set up a scrollable canvas in case the map is larger than the screen
-        self.canvas = tk.Canvas(root, width=1200, height=800, bg="white")
-        self.canvas.pack(fill=tk.BOTH, expand=True)
+        # --- Create Frame to hold Canvas + Scrollbars ---
+        map_frame = tk.Frame(root)
+        map_frame.pack(fill=tk.BOTH, expand=True)
+
+        # Create Scrollbars
+        v_scroll = tk.Scrollbar(map_frame, orient=tk.VERTICAL)
+        v_scroll.pack(side=tk.RIGHT, fill=tk.Y)
+
+        h_scroll = tk.Scrollbar(map_frame, orient=tk.HORIZONTAL)
+        h_scroll.pack(side=tk.BOTTOM, fill=tk.X)
+
+        # Create Canvas and link Scrollbars
+        self.canvas = tk.Canvas(
+            map_frame, 
+            width=1200, 
+            height=800, 
+            bg="white",
+            xscrollcommand=h_scroll.set,
+            yscrollcommand=v_scroll.set
+        )
+        self.canvas.pack(side=tk.LEFT, fill=tk.BOTH, expand=True)
+
+        v_scroll.config(command=self.canvas.yview)
+        h_scroll.config(command=self.canvas.xview)
+
+        # Bind mousewheel scrolling
+        self.canvas.bind_all("<MouseWheel>", lambda e: self.canvas.yview_scroll(int(-1*(e.delta/120)), "units"))
+        self.canvas.bind_all("<Shift-MouseWheel>", lambda e: self.canvas.xview_scroll(int(-1*(e.delta/120)), "units"))
 
         self.node_radius = 5
         self.item_to_prov_id = {} # Dictionary to map drawn circles to their Province IDs
+
 
         self.draw_map()
 
@@ -68,7 +113,7 @@ class MapGameEditor:
         # 2. Draw nodes and text
         for prov_id, data in self.topology.items():
             x, y = int(data['x']), int(data['y'])
-            node_color = "red" if data.get('coastal') else "blue"
+            node_color = "white"
             
             # Draw the circle and tag it as a 'node'
             circle_id = self.canvas.create_oval(
@@ -80,11 +125,18 @@ class MapGameEditor:
             # Map this specific drawn circle to its province ID
             self.item_to_prov_id[circle_id] = prov_id
             
-            # Add text slightly above the node
-            self.canvas.create_text(x, y - 12, text=prov_id, font=("Arial", 7))
+            # Add text slightly above the node for troop count
+            troops = self.gamestate.get(str(prov_id), {}).get("troops", 0)
+
+            self.canvas.create_text(x, y - 12, text=troops, font=("Arial", 7), tags=f"text_{prov_id}")
+            # Redraw correct color and size.
+            self.refresh_node_color(prov_id)
+            self.refresh_node_size(prov_id)
 
         # 3. Bind Left-Click (<Button-1>) on anything tagged "node" to the click handler
         self.canvas.tag_bind("node", "<Button-1>", self.on_node_click)
+        # Update scrollregion to fit all drawn items (plus a small padding margin)
+        self.canvas.config(scrollregion=self.canvas.bbox("all"))
 
     def on_node_click(self, event):
         # Identify which circle was clicked
@@ -95,7 +147,7 @@ class MapGameEditor:
         self.open_editor_popup(prov_id)
 
     def open_editor_popup(self, prov_id):
-        state = self.gamestate.get(prov_id, {})
+        state = self.gamestate.get(str(prov_id), {})
 
         # Create a new mini-window
         popup = tk.Toplevel(self.root)
@@ -140,6 +192,13 @@ class MapGameEditor:
         def save_changes():
             try:
                 # Update the dictionary with PROPER data types
+                p_id = str(prov_id)
+
+
+                # Ensure the dictionary key exists before writing nested fields
+                if p_id not in self.gamestate:
+                    self.gamestate[p_id] = {}
+
                 self.gamestate[prov_id]["owner"] = owner_var.get()
                 self.gamestate[prov_id]["troops"] = troops_var.get()  # Saves as Int
                 self.gamestate[prov_id]["has_city"] = city_var.get()  # Saves as Bool
@@ -147,6 +206,9 @@ class MapGameEditor:
                 
                 # Write to the JSON file
                 self.save_gamestate()
+                self.refresh_node_color(prov_id)
+                self.refresh_node_text(prov_id)
+                self.refresh_node_size(prov_id)
                 popup.destroy() # Close the popup
             except tk.TclError:
                 messagebox.showerror("Input Error", "Troops must be a valid number!")
@@ -154,6 +216,55 @@ class MapGameEditor:
         # Save Button
         tk.Button(popup, text="Save Changes", command=save_changes, bg="lightgreen").grid(row=5, column=0, columnspan=2, pady=10)
 
+    def refresh_node_color(self, prov_id):
+
+        p_id = str(prov_id)
+
+
+    # 2. Grab the current state for this specific province
+        state = self.gamestate.get(p_id, {})
+        owner = state.get("owner", "None")
+
+    # 3. Determine the new color
+    # If the owner string matches a key in our dictionary, use that color.
+    # If it is "None" or an unmapped string, fall back to a default color.
+        if owner in self.player_colors:
+            new_color = self.player_colors[owner]
+        else:
+            new_color = "white" # Default color for unowned or unrecognized owners
+
+    # 4. Update the visual node instantly
+    # This targets the specific tag and changes its 'fill' color on the fly.
+        self.canvas.itemconfig(f"prov_{p_id}", fill=new_color)
+
+    def refresh_node_text(self, prov_id):
+        p_id = str(prov_id)
+        state = self.gamestate.get(p_id, {})
+        troops = state.get("troops", 0)
+    
+        # Update the canvas text on the fly
+        self.canvas.itemconfig(f"text_{p_id}", text=str(troops))
+    def refresh_node_size(self, prov_id):
+        p_id = str(prov_id)
+    
+    # Retrieve topology position and gamestate data
+        data = self.topology.get(p_id, {})
+        state = self.gamestate.get(p_id, {})
+        if not data:
+            return
+
+        x, y = int(data['x']), int(data['y'])
+    
+    # Set different radii depending on province attributes
+        has_city = state.get("has_city", False)
+        radius = 8 if has_city else 5  # City radius = 10, Standard radius = 5
+
+    # Update bounding box coordinates on the canvas
+        self.canvas.coords(
+            f"prov_{p_id}",
+            x - radius, y - radius,
+            x + radius, y + radius
+        )
 
 # Run the application
 if __name__ == "__main__":

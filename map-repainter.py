@@ -43,10 +43,8 @@ def repaint_map():
             ImageDraw.floodfill(base_map, (seed_x, seed_y), fill_color, thresh=0)
 
 
-    # --- Generate Troop Text Layer ---
     text_layer = create_pixelated_text_layer(width, height, topology, gamestate)
     
-    # Save standalone layer (Ready to import as a Paint.NET / PDN layer)
     text_layer.save("troop_text_layer.png")
     print("Saved standalone layer -> troop_text_layer.png")
 
@@ -54,23 +52,18 @@ def repaint_map():
     print("Map repaint complete -> base_layer.png")
 
 def create_pixelated_text_layer(width, height, topology, gamestate):
-    # 1. Create a single transparent RGBA canvas
     text_layer = Image.new("RGBA", (width, height), (0, 0, 0, 0))
     
-    # 2. Initialize your sprite font renderer
     pixel_font = PixelFontRenderer("troop_font_medium.png", char_width=6, char_height=9)
 
-    # 3. Draw troop counts onto the canvas
     for prov_id, data in topology.items():
         p_id = str(prov_id)
         state = gamestate.get(p_id, {})
         troops = state.get("troops", 0)
 
-        # Get coordinates
         tx = int(data.get("text_x", data["x"]))
         ty = int(data.get("text_y", data["y"]))
 
-        # Draw character sprites directly onto text_layer
         pixel_font.draw_number(text_layer, str(troops), tx, ty)
 
     return text_layer
@@ -80,10 +73,8 @@ class PixelFontRenderer:
         self.char_width = char_width
         self.char_height = char_height
         
-        # Load your pixelated font template (assumes digits 0-9 arranged left to right)
         template = Image.open(template_path).convert("RGBA")
         
-        # Slice the template into individual digit sprites
         self.digits = {}
         for i in range(10):
             left = i * char_width

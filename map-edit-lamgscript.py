@@ -7,7 +7,6 @@ class MapGameEditor:
         self.root = root
         self.root.title("Late Antiquity Map Editor")
         
-        # Load the files
         self.topology = self.load_json('topology.json', default={})
         self.gamestate = self.load_json('gamestate.json', default={})
 
@@ -34,18 +33,15 @@ class MapGameEditor:
         # Ensure all territories in topology exist in the gamestate
         self.sync_gamestate()
 
-        # --- Create Frame to hold Canvas + Scrollbars ---
         map_frame = tk.Frame(root)
         map_frame.pack(fill=tk.BOTH, expand=True)
 
-        # Create Scrollbars
         v_scroll = tk.Scrollbar(map_frame, orient=tk.VERTICAL)
         v_scroll.pack(side=tk.RIGHT, fill=tk.Y)
 
         h_scroll = tk.Scrollbar(map_frame, orient=tk.HORIZONTAL)
         h_scroll.pack(side=tk.BOTTOM, fill=tk.X)
 
-        # Create Canvas and link Scrollbars
         self.canvas = tk.Canvas(
             map_frame, 
             width=2400, 
@@ -59,7 +55,6 @@ class MapGameEditor:
         v_scroll.config(command=self.canvas.yview)
         h_scroll.config(command=self.canvas.xview)
 
-        # Bind mousewheel scrolling
         self.canvas.bind_all("<MouseWheel>", lambda e: self.canvas.yview_scroll(int(-1*(e.delta/120)), "units"))
         self.canvas.bind_all("<Shift-MouseWheel>", lambda e: self.canvas.xview_scroll(int(-1*(e.delta/120)), "units"))
 
@@ -99,7 +94,7 @@ class MapGameEditor:
     def draw_map(self):
         drawn_lines = set()
 
-        # 1. Draw connections (Lines)
+        # Draws lines
         for prov_id, data in self.topology.items():
             x1, y1 = int(data['x']) * 3 / 2, int(data['y']) * 3 / 2
             
@@ -111,30 +106,27 @@ class MapGameEditor:
                         self.canvas.create_line(x1, y1, x2, y2, fill="gray", width=1)
                         drawn_lines.add(connection)
 
-        # 2. Draw nodes and text
+        # Draw nodes 
         for prov_id, data in self.topology.items():
             x, y = int(data['x']) * 3 / 2, int(data['y']) * 3 / 2
             node_color = "white"
             
-            # Draw the circle and tag it as a 'node'
             circle_id = self.canvas.create_oval(
                 x - self.node_radius, y - self.node_radius,
                 x + self.node_radius, y + self.node_radius,
                 fill=node_color, outline="black", tags=("node", f"prov_{prov_id}")
             )
             
-            # Map this specific drawn circle to its province ID
             self.item_to_prov_id[circle_id] = prov_id
             
-            # Add text slightly above the node for troop count
             troops = self.gamestate.get(str(prov_id), {}).get("troops", 0)
 
             self.canvas.create_text(x, y - 12, text=troops, font=("Arial", 7), tags=f"text_{prov_id}")
-            # Redraw correct color and size.
+            # Redraw correct color and size
             self.refresh_node_color(prov_id)
             self.refresh_node_size(prov_id)
 
-        # 3. Bind Left-Click (<Button-1>) on anything tagged "node" to the click handler
+        # Bind Left-Click (<Button-1>) on anything tagged "node" to the click handler
         self.canvas.tag_bind("node", "<Button-1>", self.on_node_click)
         # Update scrollregion to fit all drawn items (plus a small padding margin)
         self.canvas.config(scrollregion=self.canvas.bbox("all"))
@@ -220,7 +212,6 @@ class MapGameEditor:
     def refresh_node_color(self, prov_id):
 
         p_id = str(prov_id)
-        # Update color based on owner
         state = self.gamestate.get(p_id, {})
         owner = state.get("owner", "None")
         if owner in self.player_colors:
@@ -247,12 +238,10 @@ class MapGameEditor:
         state = self.gamestate.get(p_id, {})
         troops = state.get("troops", 0)
     
-        # Update the canvas text on the fly
         self.canvas.itemconfig(f"text_{p_id}", text=str(troops))
     def refresh_node_size(self, prov_id):
         p_id = str(prov_id)
     
-    # Retrieve topology position and gamestate data
         data = self.topology.get(p_id, {})
         state = self.gamestate.get(p_id, {})
         if not data:
@@ -260,18 +249,15 @@ class MapGameEditor:
 
         x, y = int(data['x']) * 3 / 2, int(data['y']) * 3 / 2
     
-    # Set different radii depending on province attributes
         has_city = state.get("has_city", False)
-        radius = 8 if has_city else 5  # City radius = 10, Standard radius = 5
+        radius = 8 if has_city else 5  # City radius = 8, Standard radius = 5
 
-    # Update bounding box coordinates on the canvas
         self.canvas.coords(
             f"prov_{p_id}",
             x - radius, y - radius,
             x + radius, y + radius
         )
 
-# Run the application
 if __name__ == "__main__":
     root = tk.Tk()
     app = MapGameEditor(root)

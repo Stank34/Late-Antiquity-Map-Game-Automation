@@ -1,0 +1,2468 @@
+{
+    "1": {
+        "owner": "None",
+        "troops": 250,
+        "has_city": false,
+        "is_fortified": false
+    },
+    "2": {
+        "owner": "None",
+        "troops": 200,
+        "has_city": false,
+        "is_fortified": false
+    },
+    "3": {
+        "owner": "None",
+        "troops": 150,
+        "has_city": false,
+        "is_fortified": false
+    },
+    "4": {
+        "owner": "None",
+        "troops": 150,
+        "has_city": false,
+        "is_fortified": false
+    },
+    "5": {
+        "owner": "RomeW",
+        "troops": 0,
+        "has_city": false,
+        "is_fortified": false
+    },
+    "6": {
+        "owner": "RomeW",
+        "troops": 25,
+        "has_city": true,
+        "is_fortified": false
+    },
+    "7": {
+        "owner": "RomeW",
+        "troops": 0,
+        "has_city": false,
+        "is_fortified": false
+    },
+    "8": {
+        "owner": "RomeW",
+        "troops": 0,
+        "has_city": false,
+        "is_fortified": false
+    },
+    "9": {
+        "owner": "RomeW",
+        "troops": 0,
+        "has_city": false,
+        "is_fortified": false
+    },
+    "10": {
+        "owner": "RomeW",
+        "troops": 0,
+        "has_city": false,
+        "is_fortified": false
+    },
+    "11": {
+        "owner": "RomeW",
+        "troops": 0,
+        "has_city": false,
+        "is_fortified": false
+    },
+    "12": {
+        "owner": "RomeW",
+        "troops": 0,
+        "has_city": false,
+        "is_fortified": false
+    },
+    "13": {
+        "owner": "RomeW",
+        "troops": 0,
+        "has_city": false,
+        "is_fortified": false
+    },
+    "14": {
+        "owner": "RomeW",
+        "troops": 0,
+        "has_city": false,
+        "is_fortified": false
+    },
+    "15": {
+        "owner": "RomeW",
+        "troops": 25,
+        "has_city": true,
+        "is_fortified": false
+    },
+    "16": {
+        "owner": "RomeW",
+        "troops": 0,
+        "has_city": false,
+        "is_fortified": false
+    },
+    "17": {
+        "owner": "RomeW",
+        "troops": 0,
+        "has_city": false,
+        "is_fortified": false
+    },
+    "18": {
+        "owner": "RomeW",
+        "troops": 0,
+        "has_city": false,
+        "is_fortified": false
+    },
+    "19": {
+        "owner": "RomeW",
+        "troops": 0,
+        "has_city": false,
+        "is_fortified": false
+    },
+    "20": {
+        "owner": "RomeW",
+        "troops": 0,
+        "has_city": false,
+        "is_fortified": false
+    },
+    "21": {
+        "owner": "RomeW",
+        "troops": 50,
+        "has_city": true,
+        "is_fortified": false
+    },
+    "22": {
+        "owner": "RomeW",
+        "troops": 0,
+        "has_city": false,
+        "is_fortified": false
+    },
+    "23": {
+        "owner": "None",
+        "troops": 250,
+        "has_city": false,
+        "is_fortified": false
+    },
+    "24": {
+        "owner": "None",
+        "troops": 250,
+        "has_city": false,
+        "is_fortified": false
+    },
+    "25": {
+        "owner": "None",
+        "troops": 500,
+        "has_city": true,
+        "is_fortified": true
+    },
+    "26": {
+        "owner": "None",
+        "troops": 250,
+        "has_city": false,
+        "is_fortified": false
+    },
+    "27": {
+        "owner": "None",
+        "troops": 250,
+        "has_city": false,
+        "is_fortified": false
+    },
+    "28": {
+        "owner": "AI",
+        "troops": 2000,
+        "has_city": false,
+        "is_fortified": false
+    },
+    "29": {
+        "owner": "AI",
+        "troops": 2000,
+        "has_city": false,
+        "is_fortified": false
+    },
+    "30": {
+        "owner": "Saxons",
+        "troops": 300,
+        "has_city": false,
+        "is_fortified": false
+    },
+    "31": {
+        "owner": "AI",
+        "troops": 150000,
+        "has_city": false,
+        "is_fortified": false
+    },
+    "32": {
+        "owner": "AI",
+        "troops": 2000,
+        "has_city": false,
+        "is_fortified": false
+    },
+    "33": {
+        "owner": "Franks",
+        "troops": 200,
+        "has_city": false,
+        "is_fortified": false
+    },
+    "34": {
+        "owner": "Franks",
+        "troops": 150,
+        "has_city": false,
+        "is_fortified": false
+    },
+    "35": {
+        "owner": "AI",
+        "troops": 2000,
+        "has_city": false,
+        "is_fortified": false
+    },
+    "36": {
+        "owner": "AI",
+        "troops": 30000,
+        "has_city": false,
+        "is_fortified": false
+    },
+    "37": {
+        "owner": "RomeW",
+        "troops": 0,
+        "has_city": false,
+        "is_fortified": false
+    },
+    "38": {
+        "owner": "Franks",
+        "troops": 300,
+        "has_city": false,
+        "is_fortified": false
+    },
+    "39": {
+        "owner": "RomeW",
+        "troops": 50,
+        "has_city": false,
+        "is_fortified": false
+    },
+    "40": {
+        "owner": "RomeW",
+        "troops": 50,
+        "has_city": false,
+        "is_fortified": false
+    },
+    "41": {
+        "owner": "RomeW",
+        "troops": 0,
+        "has_city": false,
+        "is_fortified": false
+    },
+    "42": {
+        "owner": "RomeW",
+        "troops": 0,
+        "has_city": false,
+        "is_fortified": false
+    },
+    "43": {
+        "owner": "RomeW",
+        "troops": 0,
+        "has_city": false,
+        "is_fortified": false
+    },
+    "44": {
+        "owner": "None",
+        "troops": 500,
+        "has_city": true,
+        "is_fortified": false
+    },
+    "45": {
+        "owner": "AI",
+        "troops": 2000,
+        "has_city": false,
+        "is_fortified": false
+    },
+    "46": {
+        "owner": "AI",
+        "troops": 15000,
+        "has_city": false,
+        "is_fortified": false
+    },
+    "47": {
+        "owner": "AI",
+        "troops": 15000,
+        "has_city": false,
+        "is_fortified": false
+    },
+    "48": {
+        "owner": "AI",
+        "troops": 30000,
+        "has_city": false,
+        "is_fortified": false
+    },
+    "49": {
+        "owner": "AI",
+        "troops": 30000,
+        "has_city": false,
+        "is_fortified": false
+    },
+    "50": {
+        "owner": "RomeW",
+        "troops": 50,
+        "has_city": false,
+        "is_fortified": false
+    },
+    "51": {
+        "owner": "RomeW",
+        "troops": 200,
+        "has_city": true,
+        "is_fortified": false
+    },
+    "52": {
+        "owner": "RomeW",
+        "troops": 0,
+        "has_city": false,
+        "is_fortified": false
+    },
+    "53": {
+        "owner": "RomeW",
+        "troops": 0,
+        "has_city": false,
+        "is_fortified": false
+    },
+    "54": {
+        "owner": "RomeW",
+        "troops": 50,
+        "has_city": true,
+        "is_fortified": false
+    },
+    "55": {
+        "owner": "RomeW",
+        "troops": 0,
+        "has_city": false,
+        "is_fortified": false
+    },
+    "56": {
+        "owner": "RomeW",
+        "troops": 50,
+        "has_city": false,
+        "is_fortified": false
+    },
+    "57": {
+        "owner": "RomeW",
+        "troops": 50,
+        "has_city": false,
+        "is_fortified": false
+    },
+    "58": {
+        "owner": "RomeW",
+        "troops": 0,
+        "has_city": false,
+        "is_fortified": false
+    },
+    "59": {
+        "owner": "RomeW",
+        "troops": 0,
+        "has_city": false,
+        "is_fortified": false
+    },
+    "60": {
+        "owner": "Suebi",
+        "troops": 500,
+        "has_city": false,
+        "is_fortified": false
+    },
+    "61": {
+        "owner": "None",
+        "troops": 0,
+        "has_city": false,
+        "is_fortified": false
+    },
+    "62": {
+        "owner": "None",
+        "troops": 0,
+        "has_city": false,
+        "is_fortified": false
+    },
+    "63": {
+        "owner": "None",
+        "troops": 500,
+        "has_city": false,
+        "is_fortified": false
+    },
+    "64": {
+        "owner": "RomeW",
+        "troops": 0,
+        "has_city": false,
+        "is_fortified": false
+    },
+    "65": {
+        "owner": "AI",
+        "troops": 2000,
+        "has_city": false,
+        "is_fortified": false
+    },
+    "66": {
+        "owner": "AI",
+        "troops": 2000,
+        "has_city": false,
+        "is_fortified": false
+    },
+    "67": {
+        "owner": "AI",
+        "troops": 2000,
+        "has_city": false,
+        "is_fortified": false
+    },
+    "68": {
+        "owner": "AI",
+        "troops": 30000,
+        "has_city": false,
+        "is_fortified": false
+    },
+    "69": {
+        "owner": "AI",
+        "troops": 2000,
+        "has_city": false,
+        "is_fortified": false
+    },
+    "70": {
+        "owner": "AI",
+        "troops": 2000,
+        "has_city": false,
+        "is_fortified": false
+    },
+    "71": {
+        "owner": "RomeW",
+        "troops": 0,
+        "has_city": false,
+        "is_fortified": false
+    },
+    "72": {
+        "owner": "RomeW",
+        "troops": 50,
+        "has_city": true,
+        "is_fortified": false
+    },
+    "73": {
+        "owner": "RomeW",
+        "troops": 0,
+        "has_city": false,
+        "is_fortified": false
+    },
+    "74": {
+        "owner": "RomeW",
+        "troops": 0,
+        "has_city": false,
+        "is_fortified": false
+    },
+    "75": {
+        "owner": "RomeW",
+        "troops": 0,
+        "has_city": false,
+        "is_fortified": false
+    },
+    "76": {
+        "owner": "RomeW",
+        "troops": 50,
+        "has_city": true,
+        "is_fortified": false
+    },
+    "77": {
+        "owner": "RomeW",
+        "troops": 0,
+        "has_city": false,
+        "is_fortified": false
+    },
+    "78": {
+        "owner": "RomeW",
+        "troops": 0,
+        "has_city": false,
+        "is_fortified": false
+    },
+    "79": {
+        "owner": "RomeW",
+        "troops": 0,
+        "has_city": false,
+        "is_fortified": false
+    },
+    "80": {
+        "owner": "RomeW",
+        "troops": 0,
+        "has_city": false,
+        "is_fortified": false
+    },
+    "81": {
+        "owner": "RomeW",
+        "troops": 0,
+        "has_city": false,
+        "is_fortified": false
+    },
+    "82": {
+        "owner": "Ostrogoths",
+        "troops": 500,
+        "has_city": false,
+        "is_fortified": false
+    },
+    "83": {
+        "owner": "Lombards",
+        "troops": 1000,
+        "has_city": false,
+        "is_fortified": false
+    },
+    "84": {
+        "owner": "Visigoths",
+        "troops": 500,
+        "has_city": false,
+        "is_fortified": false
+    },
+    "85": {
+        "owner": "RomeW",
+        "troops": 0,
+        "has_city": false,
+        "is_fortified": false
+    },
+    "86": {
+        "owner": "RomeW",
+        "troops": 0,
+        "has_city": false,
+        "is_fortified": false
+    },
+    "87": {
+        "owner": "RomeW",
+        "troops": 25,
+        "has_city": true,
+        "is_fortified": false
+    },
+    "88": {
+        "owner": "RomeW",
+        "troops": 0,
+        "has_city": false,
+        "is_fortified": false
+    },
+    "89": {
+        "owner": "RomeW",
+        "troops": 0,
+        "has_city": false,
+        "is_fortified": false
+    },
+    "90": {
+        "owner": "RomeW",
+        "troops": 25,
+        "has_city": true,
+        "is_fortified": false
+    },
+    "91": {
+        "owner": "RomeW",
+        "troops": 0,
+        "has_city": false,
+        "is_fortified": false
+    },
+    "92": {
+        "owner": "RomeW",
+        "troops": 0,
+        "has_city": false,
+        "is_fortified": false
+    },
+    "93": {
+        "owner": "RomeW",
+        "troops": 0,
+        "has_city": false,
+        "is_fortified": false
+    },
+    "94": {
+        "owner": "RomeW",
+        "troops": 25,
+        "has_city": true,
+        "is_fortified": false
+    },
+    "95": {
+        "owner": "Vandals",
+        "troops": 500,
+        "has_city": false,
+        "is_fortified": false
+    },
+    "96": {
+        "owner": "RomeW",
+        "troops": 25,
+        "has_city": true,
+        "is_fortified": false
+    },
+    "97": {
+        "owner": "RomeW",
+        "troops": 0,
+        "has_city": false,
+        "is_fortified": false
+    },
+    "98": {
+        "owner": "RomeW",
+        "troops": 25,
+        "has_city": true,
+        "is_fortified": false
+    },
+    "99": {
+        "owner": "RomeW",
+        "troops": 0,
+        "has_city": false,
+        "is_fortified": false
+    },
+    "100": {
+        "owner": "RomeW",
+        "troops": 100,
+        "has_city": true,
+        "is_fortified": false
+    },
+    "101": {
+        "owner": "RomeW",
+        "troops": 0,
+        "has_city": false,
+        "is_fortified": false
+    },
+    "102": {
+        "owner": "RomeW",
+        "troops": 0,
+        "has_city": false,
+        "is_fortified": false
+    },
+    "103": {
+        "owner": "RomeW",
+        "troops": 0,
+        "has_city": false,
+        "is_fortified": false
+    },
+    "104": {
+        "owner": "RomeW",
+        "troops": 0,
+        "has_city": false,
+        "is_fortified": false
+    },
+    "105": {
+        "owner": "RomeW",
+        "troops": 0,
+        "has_city": false,
+        "is_fortified": false
+    },
+    "106": {
+        "owner": "RomeW",
+        "troops": 0,
+        "has_city": false,
+        "is_fortified": false
+    },
+    "107": {
+        "owner": "RomeW",
+        "troops": 0,
+        "has_city": false,
+        "is_fortified": false
+    },
+    "108": {
+        "owner": "RomeW",
+        "troops": 0,
+        "has_city": false,
+        "is_fortified": false
+    },
+    "109": {
+        "owner": "RomeW",
+        "troops": 0,
+        "has_city": false,
+        "is_fortified": false
+    },
+    "110": {
+        "owner": "RomeW",
+        "troops": 0,
+        "has_city": false,
+        "is_fortified": false
+    },
+    "111": {
+        "owner": "RomeW",
+        "troops": 0,
+        "has_city": false,
+        "is_fortified": false
+    },
+    "112": {
+        "owner": "RomeW",
+        "troops": 25,
+        "has_city": true,
+        "is_fortified": false
+    },
+    "113": {
+        "owner": "RomeW",
+        "troops": 0,
+        "has_city": false,
+        "is_fortified": false
+    },
+    "114": {
+        "owner": "RomeW",
+        "troops": 0,
+        "has_city": false,
+        "is_fortified": false
+    },
+    "115": {
+        "owner": "RomeW",
+        "troops": 0,
+        "has_city": false,
+        "is_fortified": false
+    },
+    "116": {
+        "owner": "RomeW",
+        "troops": 0,
+        "has_city": false,
+        "is_fortified": false
+    },
+    "117": {
+        "owner": "RomeW",
+        "troops": 0,
+        "has_city": false,
+        "is_fortified": false
+    },
+    "118": {
+        "owner": "RomeW",
+        "troops": 50,
+        "has_city": true,
+        "is_fortified": false
+    },
+    "119": {
+        "owner": "RomeW",
+        "troops": 0,
+        "has_city": false,
+        "is_fortified": false
+    },
+    "120": {
+        "owner": "RomeW",
+        "troops": 0,
+        "has_city": false,
+        "is_fortified": false
+    },
+    "121": {
+        "owner": "RomeW",
+        "troops": 0,
+        "has_city": false,
+        "is_fortified": false
+    },
+    "122": {
+        "owner": "RomeW",
+        "troops": 50,
+        "has_city": true,
+        "is_fortified": false
+    },
+    "123": {
+        "owner": "RomeW",
+        "troops": 0,
+        "has_city": false,
+        "is_fortified": false
+    },
+    "124": {
+        "owner": "RomeW",
+        "troops": 300,
+        "has_city": true,
+        "is_fortified": true
+    },
+    "125": {
+        "owner": "RomeW",
+        "troops": 0,
+        "has_city": false,
+        "is_fortified": false
+    },
+    "126": {
+        "owner": "RomeW",
+        "troops": 0,
+        "has_city": false,
+        "is_fortified": false
+    },
+    "127": {
+        "owner": "RomeW",
+        "troops": 150,
+        "has_city": false,
+        "is_fortified": false
+    },
+    "128": {
+        "owner": "RomeW",
+        "troops": 250,
+        "has_city": true,
+        "is_fortified": true
+    },
+    "129": {
+        "owner": "RomeW",
+        "troops": 100,
+        "has_city": false,
+        "is_fortified": false
+    },
+    "130": {
+        "owner": "RomeW",
+        "troops": 0,
+        "has_city": false,
+        "is_fortified": false
+    },
+    "131": {
+        "owner": "RomeW",
+        "troops": 250,
+        "has_city": true,
+        "is_fortified": true
+    },
+    "132": {
+        "owner": "RomeW",
+        "troops": 100,
+        "has_city": false,
+        "is_fortified": false
+    },
+    "133": {
+        "owner": "RomeW",
+        "troops": 0,
+        "has_city": false,
+        "is_fortified": false
+    },
+    "134": {
+        "owner": "RomeW",
+        "troops": 0,
+        "has_city": false,
+        "is_fortified": false
+    },
+    "135": {
+        "owner": "RomeW",
+        "troops": 0,
+        "has_city": false,
+        "is_fortified": false
+    },
+    "136": {
+        "owner": "RomeW",
+        "troops": 0,
+        "has_city": false,
+        "is_fortified": false
+    },
+    "137": {
+        "owner": "RomeW",
+        "troops": 0,
+        "has_city": false,
+        "is_fortified": false
+    },
+    "138": {
+        "owner": "RomeW",
+        "troops": 0,
+        "has_city": false,
+        "is_fortified": false
+    },
+    "139": {
+        "owner": "RomeW",
+        "troops": 0,
+        "has_city": false,
+        "is_fortified": false
+    },
+    "140": {
+        "owner": "RomeW",
+        "troops": 0,
+        "has_city": false,
+        "is_fortified": false
+    },
+    "141": {
+        "owner": "RomeW",
+        "troops": 0,
+        "has_city": false,
+        "is_fortified": false
+    },
+    "142": {
+        "owner": "RomeW",
+        "troops": 100,
+        "has_city": true,
+        "is_fortified": true
+    },
+    "143": {
+        "owner": "RomeW",
+        "troops": 0,
+        "has_city": false,
+        "is_fortified": false
+    },
+    "144": {
+        "owner": "RomeW",
+        "troops": 50,
+        "has_city": false,
+        "is_fortified": false
+    },
+    "145": {
+        "owner": "RomeW",
+        "troops": 0,
+        "has_city": false,
+        "is_fortified": false
+    },
+    "146": {
+        "owner": "RomeW",
+        "troops": 0,
+        "has_city": false,
+        "is_fortified": false
+    },
+    "147": {
+        "owner": "AI",
+        "troops": 2000,
+        "has_city": false,
+        "is_fortified": false
+    },
+    "148": {
+        "owner": "AI",
+        "troops": 2000,
+        "has_city": false,
+        "is_fortified": false
+    },
+    "149": {
+        "owner": "AI",
+        "troops": 100000,
+        "has_city": false,
+        "is_fortified": false
+    },
+    "150": {
+        "owner": "Rome",
+        "troops": 0,
+        "has_city": false,
+        "is_fortified": false
+    },
+    "151": {
+        "owner": "Rome",
+        "troops": 0,
+        "has_city": false,
+        "is_fortified": false
+    },
+    "152": {
+        "owner": "Rome",
+        "troops": 750,
+        "has_city": true,
+        "is_fortified": true
+    },
+    "153": {
+        "owner": "AI",
+        "troops": 2000,
+        "has_city": false,
+        "is_fortified": false
+    },
+    "154": {
+        "owner": "AI",
+        "troops": 10000,
+        "has_city": true,
+        "is_fortified": false
+    },
+    "155": {
+        "owner": "AI",
+        "troops": 3000,
+        "has_city": false,
+        "is_fortified": false
+    },
+    "156": {
+        "owner": "AI",
+        "troops": 2000,
+        "has_city": false,
+        "is_fortified": false
+    },
+    "157": {
+        "owner": "Rome",
+        "troops": 500,
+        "has_city": false,
+        "is_fortified": false
+    },
+    "158": {
+        "owner": "Rome",
+        "troops": 750,
+        "has_city": true,
+        "is_fortified": true
+    },
+    "159": {
+        "owner": "Rome",
+        "troops": 150,
+        "has_city": false,
+        "is_fortified": false
+    },
+    "160": {
+        "owner": "AI",
+        "troops": 2000,
+        "has_city": false,
+        "is_fortified": false
+    },
+    "161": {
+        "owner": "AI",
+        "troops": 2000,
+        "has_city": false,
+        "is_fortified": false
+    },
+    "162": {
+        "owner": "AI",
+        "troops": 3000,
+        "has_city": false,
+        "is_fortified": false
+    },
+    "163": {
+        "owner": "AI",
+        "troops": 2000,
+        "has_city": false,
+        "is_fortified": false
+    },
+    "164": {
+        "owner": "Rome",
+        "troops": 750,
+        "has_city": true,
+        "is_fortified": true
+    },
+    "165": {
+        "owner": "Rome",
+        "troops": 0,
+        "has_city": false,
+        "is_fortified": false
+    },
+    "166": {
+        "owner": "Rome",
+        "troops": 0,
+        "has_city": false,
+        "is_fortified": false
+    },
+    "167": {
+        "owner": "Rome",
+        "troops": 0,
+        "has_city": false,
+        "is_fortified": false
+    },
+    "168": {
+        "owner": "Rome",
+        "troops": 0,
+        "has_city": true,
+        "is_fortified": false
+    },
+    "169": {
+        "owner": "Rome",
+        "troops": 250,
+        "has_city": true,
+        "is_fortified": true
+    },
+    "170": {
+        "owner": "Rome",
+        "troops": 150,
+        "has_city": true,
+        "is_fortified": true
+    },
+    "171": {
+        "owner": "Rome",
+        "troops": 150,
+        "has_city": false,
+        "is_fortified": false
+    },
+    "172": {
+        "owner": "Rome",
+        "troops": 0,
+        "has_city": false,
+        "is_fortified": false
+    },
+    "173": {
+        "owner": "Rome",
+        "troops": 100,
+        "has_city": true,
+        "is_fortified": true
+    },
+    "174": {
+        "owner": "Rome",
+        "troops": 100,
+        "has_city": false,
+        "is_fortified": false
+    },
+    "175": {
+        "owner": "Rome",
+        "troops": 0,
+        "has_city": false,
+        "is_fortified": false
+    },
+    "176": {
+        "owner": "Rome",
+        "troops": 400,
+        "has_city": true,
+        "is_fortified": true
+    },
+    "177": {
+        "owner": "Rome",
+        "troops": 100,
+        "has_city": false,
+        "is_fortified": false
+    },
+    "178": {
+        "owner": "Rome",
+        "troops": 150,
+        "has_city": false,
+        "is_fortified": false
+    },
+    "179": {
+        "owner": "Rome",
+        "troops": 150,
+        "has_city": false,
+        "is_fortified": false
+    },
+    "180": {
+        "owner": "Rome",
+        "troops": 2000,
+        "has_city": true,
+        "is_fortified": true
+    },
+    "181": {
+        "owner": "Rome",
+        "troops": 100,
+        "has_city": false,
+        "is_fortified": false
+    },
+    "182": {
+        "owner": "Rome",
+        "troops": 400,
+        "has_city": true,
+        "is_fortified": true
+    },
+    "183": {
+        "owner": "Rome",
+        "troops": 100,
+        "has_city": false,
+        "is_fortified": false
+    },
+    "184": {
+        "owner": "Rome",
+        "troops": 100,
+        "has_city": false,
+        "is_fortified": false
+    },
+    "185": {
+        "owner": "Rome",
+        "troops": 100,
+        "has_city": false,
+        "is_fortified": false
+    },
+    "186": {
+        "owner": "Rome",
+        "troops": 150,
+        "has_city": false,
+        "is_fortified": false
+    },
+    "187": {
+        "owner": "Rome",
+        "troops": 150,
+        "has_city": true,
+        "is_fortified": true
+    },
+    "188": {
+        "owner": "Rome",
+        "troops": 150,
+        "has_city": false,
+        "is_fortified": false
+    },
+    "189": {
+        "owner": "Rome",
+        "troops": 150,
+        "has_city": false,
+        "is_fortified": false
+    },
+    "190": {
+        "owner": "Rome",
+        "troops": 0,
+        "has_city": false,
+        "is_fortified": false
+    },
+    "191": {
+        "owner": "Rome",
+        "troops": 0,
+        "has_city": false,
+        "is_fortified": false
+    },
+    "192": {
+        "owner": "Rome",
+        "troops": 100,
+        "has_city": false,
+        "is_fortified": false
+    },
+    "193": {
+        "owner": "Rome",
+        "troops": 150,
+        "has_city": true,
+        "is_fortified": true
+    },
+    "194": {
+        "owner": "Rome",
+        "troops": 150,
+        "has_city": false,
+        "is_fortified": false
+    },
+    "195": {
+        "owner": "Rome",
+        "troops": 150,
+        "has_city": true,
+        "is_fortified": true
+    },
+    "196": {
+        "owner": "Rome",
+        "troops": 0,
+        "has_city": false,
+        "is_fortified": false
+    },
+    "197": {
+        "owner": "Rome",
+        "troops": 150,
+        "has_city": true,
+        "is_fortified": true
+    },
+    "198": {
+        "owner": "Rome",
+        "troops": 100,
+        "has_city": false,
+        "is_fortified": false
+    },
+    "199": {
+        "owner": "Rome",
+        "troops": 150,
+        "has_city": true,
+        "is_fortified": true
+    },
+    "200": {
+        "owner": "Rome",
+        "troops": 100,
+        "has_city": false,
+        "is_fortified": false
+    },
+    "201": {
+        "owner": "Rome",
+        "troops": 250,
+        "has_city": false,
+        "is_fortified": false
+    },
+    "202": {
+        "owner": "Rome",
+        "troops": 0,
+        "has_city": false,
+        "is_fortified": false
+    },
+    "203": {
+        "owner": "Rome",
+        "troops": 0,
+        "has_city": false,
+        "is_fortified": false
+    },
+    "204": {
+        "owner": "Rome",
+        "troops": 100,
+        "has_city": false,
+        "is_fortified": false
+    },
+    "205": {
+        "owner": "Rome",
+        "troops": 500,
+        "has_city": true,
+        "is_fortified": true
+    },
+    "206": {
+        "owner": "Rome",
+        "troops": 150,
+        "has_city": false,
+        "is_fortified": false
+    },
+    "207": {
+        "owner": "Rome",
+        "troops": 100,
+        "has_city": false,
+        "is_fortified": false
+    },
+    "208": {
+        "owner": "Rome",
+        "troops": 200,
+        "has_city": false,
+        "is_fortified": false
+    },
+    "209": {
+        "owner": "Rome",
+        "troops": 200,
+        "has_city": false,
+        "is_fortified": false
+    },
+    "210": {
+        "owner": "Rome",
+        "troops": 1000,
+        "has_city": true,
+        "is_fortified": true
+    },
+    "211": {
+        "owner": "Rome",
+        "troops": 150,
+        "has_city": false,
+        "is_fortified": false
+    },
+    "212": {
+        "owner": "Rome",
+        "troops": 150,
+        "has_city": false,
+        "is_fortified": false
+    },
+    "213": {
+        "owner": "Rome",
+        "troops": 500,
+        "has_city": true,
+        "is_fortified": true
+    },
+    "214": {
+        "owner": "Rome",
+        "troops": 500,
+        "has_city": true,
+        "is_fortified": true
+    },
+    "215": {
+        "owner": "Rome",
+        "troops": 150,
+        "has_city": false,
+        "is_fortified": false
+    },
+    "216": {
+        "owner": "Rome",
+        "troops": 150,
+        "has_city": false,
+        "is_fortified": false
+    },
+    "217": {
+        "owner": "Rome",
+        "troops": 500,
+        "has_city": true,
+        "is_fortified": true
+    },
+    "218": {
+        "owner": "Rome",
+        "troops": 200,
+        "has_city": false,
+        "is_fortified": false
+    },
+    "219": {
+        "owner": "Rome",
+        "troops": 200,
+        "has_city": false,
+        "is_fortified": false
+    },
+    "220": {
+        "owner": "Rome",
+        "troops": 500,
+        "has_city": true,
+        "is_fortified": true
+    },
+    "221": {
+        "owner": "Rome",
+        "troops": 200,
+        "has_city": false,
+        "is_fortified": false
+    },
+    "222": {
+        "owner": "None",
+        "troops": 1200,
+        "has_city": false,
+        "is_fortified": false
+    },
+    "223": {
+        "owner": "None",
+        "troops": 2000,
+        "has_city": false,
+        "is_fortified": false
+    },
+    "224": {
+        "owner": "None",
+        "troops": 1500,
+        "has_city": false,
+        "is_fortified": false
+    },
+    "225": {
+        "owner": "None",
+        "troops": 1500,
+        "has_city": false,
+        "is_fortified": false
+    },
+    "226": {
+        "owner": "None",
+        "troops": 1200,
+        "has_city": true,
+        "is_fortified": true
+    },
+    "227": {
+        "owner": "None",
+        "troops": 1000,
+        "has_city": false,
+        "is_fortified": false
+    },
+    "228": {
+        "owner": "None",
+        "troops": 1000,
+        "has_city": false,
+        "is_fortified": false
+    },
+    "229": {
+        "owner": "Persia",
+        "troops": 50,
+        "has_city": false,
+        "is_fortified": false
+    },
+    "230": {
+        "owner": "Persia",
+        "troops": 300,
+        "has_city": true,
+        "is_fortified": true
+    },
+    "231": {
+        "owner": "Persia",
+        "troops": 50,
+        "has_city": false,
+        "is_fortified": false
+    },
+    "232": {
+        "owner": "Persia",
+        "troops": 100,
+        "has_city": false,
+        "is_fortified": false
+    },
+    "233": {
+        "owner": "Persia",
+        "troops": 300,
+        "has_city": false,
+        "is_fortified": false
+    },
+    "234": {
+        "owner": "Persia",
+        "troops": 500,
+        "has_city": true,
+        "is_fortified": true
+    },
+    "235": {
+        "owner": "Persia",
+        "troops": 300,
+        "has_city": false,
+        "is_fortified": false
+    },
+    "236": {
+        "owner": "Persia",
+        "troops": 300,
+        "has_city": false,
+        "is_fortified": false
+    },
+    "237": {
+        "owner": "Persia",
+        "troops": 300,
+        "has_city": false,
+        "is_fortified": false
+    },
+    "238": {
+        "owner": "Persia",
+        "troops": 500,
+        "has_city": true,
+        "is_fortified": true
+    },
+    "239": {
+        "owner": "Persia",
+        "troops": 500,
+        "has_city": false,
+        "is_fortified": false
+    },
+    "240": {
+        "owner": "Persia",
+        "troops": 100,
+        "has_city": false,
+        "is_fortified": false
+    },
+    "241": {
+        "owner": "Persia",
+        "troops": 100,
+        "has_city": false,
+        "is_fortified": false
+    },
+    "242": {
+        "owner": "Persia",
+        "troops": 300,
+        "has_city": true,
+        "is_fortified": true
+    },
+    "243": {
+        "owner": "Persia",
+        "troops": 300,
+        "has_city": true,
+        "is_fortified": true
+    },
+    "244": {
+        "owner": "Persia",
+        "troops": 300,
+        "has_city": false,
+        "is_fortified": false
+    },
+    "245": {
+        "owner": "Persia",
+        "troops": 300,
+        "has_city": false,
+        "is_fortified": false
+    },
+    "246": {
+        "owner": "Persia",
+        "troops": 300,
+        "has_city": false,
+        "is_fortified": false
+    },
+    "247": {
+        "owner": "Rome",
+        "troops": 200,
+        "has_city": false,
+        "is_fortified": false
+    },
+    "248": {
+        "owner": "Rome",
+        "troops": 2000,
+        "has_city": true,
+        "is_fortified": true
+    },
+    "249": {
+        "owner": "Persia",
+        "troops": 500,
+        "has_city": true,
+        "is_fortified": true
+    },
+    "250": {
+        "owner": "Persia",
+        "troops": 500,
+        "has_city": false,
+        "is_fortified": false
+    },
+    "251": {
+        "owner": "Persia",
+        "troops": 500,
+        "has_city": true,
+        "is_fortified": true
+    },
+    "252": {
+        "owner": "Rome",
+        "troops": 150,
+        "has_city": false,
+        "is_fortified": false
+    },
+    "253": {
+        "owner": "Persia",
+        "troops": 250,
+        "has_city": false,
+        "is_fortified": false
+    },
+    "254": {
+        "owner": "Persia",
+        "troops": 150,
+        "has_city": false,
+        "is_fortified": false
+    },
+    "255": {
+        "owner": "Persia",
+        "troops": 150,
+        "has_city": false,
+        "is_fortified": false
+    },
+    "256": {
+        "owner": "Persia",
+        "troops": 500,
+        "has_city": true,
+        "is_fortified": true
+    },
+    "257": {
+        "owner": "Persia",
+        "troops": 300,
+        "has_city": false,
+        "is_fortified": false
+    },
+    "258": {
+        "owner": "Persia",
+        "troops": 100,
+        "has_city": false,
+        "is_fortified": false
+    },
+    "259": {
+        "owner": "Persia",
+        "troops": 0,
+        "has_city": false,
+        "is_fortified": false
+    },
+    "260": {
+        "owner": "Persia",
+        "troops": 0,
+        "has_city": true,
+        "is_fortified": true
+    },
+    "261": {
+        "owner": "Persia",
+        "troops": 0,
+        "has_city": true,
+        "is_fortified": true
+    },
+    "262": {
+        "owner": "Persia",
+        "troops": 0,
+        "has_city": false,
+        "is_fortified": false
+    },
+    "263": {
+        "owner": "Persia",
+        "troops": 100,
+        "has_city": false,
+        "is_fortified": false
+    },
+    "264": {
+        "owner": "Persia",
+        "troops": 0,
+        "has_city": false,
+        "is_fortified": false
+    },
+    "265": {
+        "owner": "Persia",
+        "troops": 200,
+        "has_city": false,
+        "is_fortified": false
+    },
+    "266": {
+        "owner": "Persia",
+        "troops": 2000,
+        "has_city": true,
+        "is_fortified": true
+    },
+    "267": {
+        "owner": "Persia",
+        "troops": 150,
+        "has_city": false,
+        "is_fortified": false
+    },
+    "268": {
+        "owner": "Persia",
+        "troops": 150,
+        "has_city": false,
+        "is_fortified": false
+    },
+    "269": {
+        "owner": "ArabAI",
+        "troops": 300,
+        "has_city": false,
+        "is_fortified": false
+    },
+    "270": {
+        "owner": "ArabAI",
+        "troops": 300,
+        "has_city": false,
+        "is_fortified": false
+    },
+    "271": {
+        "owner": "Rome",
+        "troops": 150,
+        "has_city": false,
+        "is_fortified": false
+    },
+    "272": {
+        "owner": "Rome",
+        "troops": 150,
+        "has_city": false,
+        "is_fortified": false
+    },
+    "273": {
+        "owner": "Rome",
+        "troops": 600,
+        "has_city": true,
+        "is_fortified": true
+    },
+    "274": {
+        "owner": "Rome",
+        "troops": 50,
+        "has_city": false,
+        "is_fortified": false
+    },
+    "275": {
+        "owner": "Rome",
+        "troops": 1000,
+        "has_city": true,
+        "is_fortified": true
+    },
+    "276": {
+        "owner": "Rome",
+        "troops": 50,
+        "has_city": false,
+        "is_fortified": false
+    },
+    "277": {
+        "owner": "ArabAI",
+        "troops": 300,
+        "has_city": false,
+        "is_fortified": false
+    },
+    "278": {
+        "owner": "ArabAI",
+        "troops": 50,
+        "has_city": false,
+        "is_fortified": false
+    },
+    "279": {
+        "owner": "ArabAI",
+        "troops": 50,
+        "has_city": false,
+        "is_fortified": false
+    },
+    "280": {
+        "owner": "Arabs",
+        "troops": 50,
+        "has_city": true,
+        "is_fortified": true
+    },
+    "281": {
+        "owner": "Arabs",
+        "troops": 50,
+        "has_city": true,
+        "is_fortified": true
+    },
+    "282": {
+        "owner": "ArabAI",
+        "troops": 50,
+        "has_city": false,
+        "is_fortified": false
+    },
+    "283": {
+        "owner": "ArabAI",
+        "troops": 100,
+        "has_city": false,
+        "is_fortified": false
+    },
+    "284": {
+        "owner": "ArabAI",
+        "troops": 100,
+        "has_city": false,
+        "is_fortified": false
+    },
+    "285": {
+        "owner": "ArabAI",
+        "troops": 200,
+        "has_city": false,
+        "is_fortified": false
+    },
+    "286": {
+        "owner": "ArabAI",
+        "troops": 300,
+        "has_city": false,
+        "is_fortified": false
+    },
+    "287": {
+        "owner": "ArabAI",
+        "troops": 300,
+        "has_city": false,
+        "is_fortified": false
+    },
+    "288": {
+        "owner": "ArabAI",
+        "troops": 300,
+        "has_city": false,
+        "is_fortified": false
+    },
+    "289": {
+        "owner": "ArabAI",
+        "troops": 200,
+        "has_city": false,
+        "is_fortified": false
+    },
+    "290": {
+        "owner": "ArabAI",
+        "troops": 300,
+        "has_city": false,
+        "is_fortified": false
+    },
+    "291": {
+        "owner": "ArabAI",
+        "troops": 300,
+        "has_city": false,
+        "is_fortified": false
+    },
+    "292": {
+        "owner": "ArabAI",
+        "troops": 300,
+        "has_city": false,
+        "is_fortified": false
+    },
+    "293": {
+        "owner": "ArabAI",
+        "troops": 300,
+        "has_city": false,
+        "is_fortified": false
+    },
+    "294": {
+        "owner": "Persia",
+        "troops": 300,
+        "has_city": false,
+        "is_fortified": false
+    },
+    "295": {
+        "owner": "Persia",
+        "troops": 300,
+        "has_city": false,
+        "is_fortified": false
+    },
+    "296": {
+        "owner": "ArabAI",
+        "troops": 200,
+        "has_city": false,
+        "is_fortified": false
+    },
+    "297": {
+        "owner": "ArabAI",
+        "troops": 100,
+        "has_city": false,
+        "is_fortified": false
+    },
+    "298": {
+        "owner": "ArabAI",
+        "troops": 50,
+        "has_city": false,
+        "is_fortified": false
+    },
+    "299": {
+        "owner": "ArabAI",
+        "troops": 50,
+        "has_city": false,
+        "is_fortified": false
+    },
+    "300": {
+        "owner": "ArabAI",
+        "troops": 50,
+        "has_city": false,
+        "is_fortified": false
+    },
+    "301": {
+        "owner": "ArabAI",
+        "troops": 100,
+        "has_city": false,
+        "is_fortified": false
+    },
+    "302": {
+        "owner": "ArabAI",
+        "troops": 100,
+        "has_city": false,
+        "is_fortified": false
+    },
+    "303": {
+        "owner": "ArabAI",
+        "troops": 200,
+        "has_city": false,
+        "is_fortified": false
+    },
+    "304": {
+        "owner": "Persia",
+        "troops": 300,
+        "has_city": false,
+        "is_fortified": false
+    },
+    "305": {
+        "owner": "Persia",
+        "troops": 300,
+        "has_city": false,
+        "is_fortified": false
+    },
+    "306": {
+        "owner": "ArabAI",
+        "troops": 200,
+        "has_city": false,
+        "is_fortified": false
+    },
+    "307": {
+        "owner": "Persia",
+        "troops": 300,
+        "has_city": false,
+        "is_fortified": false
+    },
+    "308": {
+        "owner": "Persia",
+        "troops": 300,
+        "has_city": false,
+        "is_fortified": false
+    },
+    "309": {
+        "owner": "Persia",
+        "troops": 500,
+        "has_city": true,
+        "is_fortified": true
+    },
+    "310": {
+        "owner": "Persia",
+        "troops": 150,
+        "has_city": false,
+        "is_fortified": false
+    },
+    "311": {
+        "owner": "Persia",
+        "troops": 500,
+        "has_city": true,
+        "is_fortified": true
+    },
+    "312": {
+        "owner": "Persia",
+        "troops": 200,
+        "has_city": false,
+        "is_fortified": false
+    },
+    "313": {
+        "owner": "Persia",
+        "troops": 100,
+        "has_city": false,
+        "is_fortified": false
+    },
+    "314": {
+        "owner": "Persia",
+        "troops": 0,
+        "has_city": false,
+        "is_fortified": false
+    },
+    "315": {
+        "owner": "Persia",
+        "troops": 0,
+        "has_city": true,
+        "is_fortified": true
+    },
+    "316": {
+        "owner": "Persia",
+        "troops": 0,
+        "has_city": true,
+        "is_fortified": true
+    },
+    "317": {
+        "owner": "Persia",
+        "troops": 0,
+        "has_city": false,
+        "is_fortified": false
+    },
+    "318": {
+        "owner": "Persia",
+        "troops": 0,
+        "has_city": false,
+        "is_fortified": false
+    },
+    "319": {
+        "owner": "Persia",
+        "troops": 0,
+        "has_city": true,
+        "is_fortified": false
+    },
+    "320": {
+        "owner": "Persia",
+        "troops": 0,
+        "has_city": false,
+        "is_fortified": false
+    },
+    "321": {
+        "owner": "Persia",
+        "troops": 0,
+        "has_city": true,
+        "is_fortified": true
+    },
+    "322": {
+        "owner": "Persia",
+        "troops": 0,
+        "has_city": false,
+        "is_fortified": false
+    },
+    "323": {
+        "owner": "Persia",
+        "troops": 0,
+        "has_city": false,
+        "is_fortified": false
+    },
+    "324": {
+        "owner": "Persia",
+        "troops": 0,
+        "has_city": true,
+        "is_fortified": true
+    },
+    "325": {
+        "owner": "Persia",
+        "troops": 0,
+        "has_city": false,
+        "is_fortified": false
+    },
+    "326": {
+        "owner": "Persia",
+        "troops": 0,
+        "has_city": false,
+        "is_fortified": false
+    },
+    "327": {
+        "owner": "Persia",
+        "troops": 0,
+        "has_city": false,
+        "is_fortified": false
+    },
+    "328": {
+        "owner": "Persia",
+        "troops": 0,
+        "has_city": false,
+        "is_fortified": false
+    },
+    "329": {
+        "owner": "Persia",
+        "troops": 300,
+        "has_city": false,
+        "is_fortified": false
+    },
+    "330": {
+        "owner": "Persia",
+        "troops": 300,
+        "has_city": false,
+        "is_fortified": false
+    },
+    "331": {
+        "owner": "Persia",
+        "troops": 300,
+        "has_city": false,
+        "is_fortified": false
+    },
+    "332": {
+        "owner": "Persia",
+        "troops": 300,
+        "has_city": false,
+        "is_fortified": false
+    },
+    "333": {
+        "owner": "Persia",
+        "troops": 500,
+        "has_city": true,
+        "is_fortified": true
+    },
+    "334": {
+        "owner": "Persia",
+        "troops": 300,
+        "has_city": false,
+        "is_fortified": false
+    },
+    "335": {
+        "owner": "Persia",
+        "troops": 300,
+        "has_city": false,
+        "is_fortified": false
+    },
+    "336": {
+        "owner": "Persia",
+        "troops": 0,
+        "has_city": false,
+        "is_fortified": false
+    },
+    "337": {
+        "owner": "Persia",
+        "troops": 0,
+        "has_city": true,
+        "is_fortified": false
+    },
+    "338": {
+        "owner": "Persia",
+        "troops": 0,
+        "has_city": false,
+        "is_fortified": false
+    },
+    "339": {
+        "owner": "Persia",
+        "troops": 0,
+        "has_city": false,
+        "is_fortified": false
+    },
+    "340": {
+        "owner": "Persia",
+        "troops": 0,
+        "has_city": false,
+        "is_fortified": false
+    },
+    "341": {
+        "owner": "Persia",
+        "troops": 0,
+        "has_city": false,
+        "is_fortified": false
+    },
+    "342": {
+        "owner": "Persia",
+        "troops": 0,
+        "has_city": false,
+        "is_fortified": false
+    },
+    "343": {
+        "owner": "Persia",
+        "troops": 0,
+        "has_city": false,
+        "is_fortified": false
+    },
+    "344": {
+        "owner": "Persia",
+        "troops": 0,
+        "has_city": true,
+        "is_fortified": true
+    },
+    "345": {
+        "owner": "Persia",
+        "troops": 0,
+        "has_city": false,
+        "is_fortified": false
+    },
+    "346": {
+        "owner": "Persia",
+        "troops": 0,
+        "has_city": false,
+        "is_fortified": false
+    },
+    "347": {
+        "owner": "Persia",
+        "troops": 0,
+        "has_city": false,
+        "is_fortified": false
+    },
+    "348": {
+        "owner": "Persia",
+        "troops": 0,
+        "has_city": false,
+        "is_fortified": false
+    },
+    "349": {
+        "owner": "Rome",
+        "troops": 300,
+        "has_city": true,
+        "is_fortified": true
+    },
+    "350": {
+        "owner": "Rome",
+        "troops": 100,
+        "has_city": false,
+        "is_fortified": false
+    },
+    "351": {
+        "owner": "Rome",
+        "troops": 250,
+        "has_city": false,
+        "is_fortified": false
+    },
+    "352": {
+        "owner": "Rome",
+        "troops": 200,
+        "has_city": true,
+        "is_fortified": true
+    },
+    "353": {
+        "owner": "None",
+        "troops": 350,
+        "has_city": false,
+        "is_fortified": false
+    },
+    "354": {
+        "owner": "ArabAI",
+        "troops": 200,
+        "has_city": false,
+        "is_fortified": false
+    },
+    "355": {
+        "owner": "RomeW",
+        "troops": 25,
+        "has_city": true,
+        "is_fortified": false
+    },
+    "356": {
+        "owner": "RomeW",
+        "troops": 0,
+        "has_city": false,
+        "is_fortified": false
+    },
+    "357": {
+        "owner": "ArabAI",
+        "troops": 200,
+        "has_city": false,
+        "is_fortified": false
+    },
+    "358": {
+        "owner": "RomeW",
+        "troops": 25,
+        "has_city": true,
+        "is_fortified": false
+    },
+    "359": {
+        "owner": "RomeW",
+        "troops": 0,
+        "has_city": false,
+        "is_fortified": false
+    },
+    "360": {
+        "owner": "RomeW",
+        "troops": 0,
+        "has_city": false,
+        "is_fortified": false
+    },
+    "361": {
+        "owner": "RomeW",
+        "troops": 50,
+        "has_city": true,
+        "is_fortified": true
+    },
+    "362": {
+        "owner": "RomeW",
+        "troops": 25,
+        "has_city": true,
+        "is_fortified": false
+    },
+    "363": {
+        "owner": "RomeW",
+        "troops": 0,
+        "has_city": false,
+        "is_fortified": false
+    },
+    "364": {
+        "owner": "RomeW",
+        "troops": 0,
+        "has_city": false,
+        "is_fortified": false
+    },
+    "365": {
+        "owner": "RomeW",
+        "troops": 0,
+        "has_city": false,
+        "is_fortified": false
+    },
+    "366": {
+        "owner": "None",
+        "troops": 200,
+        "has_city": false,
+        "is_fortified": false
+    },
+    "367": {
+        "owner": "RomeW",
+        "troops": 25,
+        "has_city": true,
+        "is_fortified": false
+    },
+    "368": {
+        "owner": "None",
+        "troops": 200,
+        "has_city": false,
+        "is_fortified": false
+    },
+    "369": {
+        "owner": "None",
+        "troops": 150,
+        "has_city": false,
+        "is_fortified": false
+    },
+    "370": {
+        "owner": "None",
+        "troops": 200,
+        "has_city": false,
+        "is_fortified": false
+    },
+    "371": {
+        "owner": "None",
+        "troops": 200,
+        "has_city": false,
+        "is_fortified": false
+    },
+    "372": {
+        "owner": "RomeW",
+        "troops": 0,
+        "has_city": false,
+        "is_fortified": false
+    },
+    "373": {
+        "owner": "RomeW",
+        "troops": 25,
+        "has_city": true,
+        "is_fortified": false
+    },
+    "374": {
+        "owner": "RomeW",
+        "troops": 25,
+        "has_city": true,
+        "is_fortified": false
+    },
+    "375": {
+        "owner": "ArabAI",
+        "troops": 200,
+        "has_city": false,
+        "is_fortified": false
+    },
+    "376": {
+        "owner": "ArabAI",
+        "troops": 200,
+        "has_city": false,
+        "is_fortified": false
+    },
+    "377": {
+        "owner": "ArabAI",
+        "troops": 200,
+        "has_city": false,
+        "is_fortified": false
+    },
+    "378": {
+        "owner": "ArabAI",
+        "troops": 200,
+        "has_city": false,
+        "is_fortified": false
+    },
+    "379": {
+        "owner": "ArabAI",
+        "troops": 200,
+        "has_city": false,
+        "is_fortified": false
+    },
+    "380": {
+        "owner": "AI",
+        "troops": 2000,
+        "has_city": false,
+        "is_fortified": false
+    },
+    "381": {
+        "owner": "AI",
+        "troops": 2000,
+        "has_city": false,
+        "is_fortified": false
+    },
+    "382": {
+        "owner": "AI",
+        "troops": 2000,
+        "has_city": false,
+        "is_fortified": false
+    },
+    "383": {
+        "owner": "AI",
+        "troops": 2000,
+        "has_city": false,
+        "is_fortified": false
+    },
+    "384": {
+        "owner": "AI",
+        "troops": 10000,
+        "has_city": false,
+        "is_fortified": false
+    },
+    "385": {
+        "owner": "AI",
+        "troops": 2000,
+        "has_city": false,
+        "is_fortified": false
+    },
+    "386": {
+        "owner": "AI",
+        "troops": 4000,
+        "has_city": false,
+        "is_fortified": false
+    },
+    "387": {
+        "owner": "AI",
+        "troops": 2000,
+        "has_city": false,
+        "is_fortified": false
+    },
+    "388": {
+        "owner": "AI",
+        "troops": 5000,
+        "has_city": false,
+        "is_fortified": false
+    },
+    "389": {
+        "owner": "AI",
+        "troops": 30000,
+        "has_city": false,
+        "is_fortified": false
+    },
+    "390": {
+        "owner": "AI",
+        "troops": 30000,
+        "has_city": false,
+        "is_fortified": false
+    },
+    "391": {
+        "owner": "AI",
+        "troops": 5000,
+        "has_city": false,
+        "is_fortified": false
+    },
+    "392": {
+        "owner": "AI",
+        "troops": 2000,
+        "has_city": false,
+        "is_fortified": false
+    },
+    "393": {
+        "owner": "AI",
+        "troops": 2000,
+        "has_city": false,
+        "is_fortified": false
+    },
+    "394": {
+        "owner": "AI",
+        "troops": 5000,
+        "has_city": false,
+        "is_fortified": false
+    },
+    "395": {
+        "owner": "AI",
+        "troops": 5000,
+        "has_city": false,
+        "is_fortified": false
+    },
+    "396": {
+        "owner": "AI",
+        "troops": 2000,
+        "has_city": false,
+        "is_fortified": false
+    },
+    "397": {
+        "owner": "AI",
+        "troops": 5000,
+        "has_city": false,
+        "is_fortified": false
+    },
+    "398": {
+        "owner": "AI",
+        "troops": 2000,
+        "has_city": false,
+        "is_fortified": false
+    },
+    "399": {
+        "owner": "AI",
+        "troops": 2000,
+        "has_city": false,
+        "is_fortified": false
+    },
+    "400": {
+        "owner": "None",
+        "troops": 600,
+        "has_city": true,
+        "is_fortified": true
+    },
+    "401": {
+        "owner": "Rome",
+        "troops": 200,
+        "has_city": false,
+        "is_fortified": false
+    },
+    "402": {
+        "owner": "Rome",
+        "troops": 250,
+        "has_city": true,
+        "is_fortified": true
+    },
+    "403": {
+        "owner": "RomeW",
+        "troops": 150,
+        "has_city": true,
+        "is_fortified": false
+    },
+    "404": {
+        "owner": "RomeW",
+        "troops": 50,
+        "has_city": false,
+        "is_fortified": false
+    },
+    "405": {
+        "owner": "RomeW",
+        "troops": 0,
+        "has_city": false,
+        "is_fortified": false
+    },
+    "406": {
+        "owner": "RomeW",
+        "troops": 25,
+        "has_city": true,
+        "is_fortified": false
+    },
+    "407": {
+        "owner": "RomeW",
+        "troops": 0,
+        "has_city": false,
+        "is_fortified": false
+    },
+    "408": {
+        "owner": "RomeW",
+        "troops": 0,
+        "has_city": false,
+        "is_fortified": false
+    },
+    "409": {
+        "owner": "RomeW",
+        "troops": 0,
+        "has_city": false,
+        "is_fortified": false
+    },
+    "410": {
+        "owner": "Rome",
+        "troops": 150,
+        "has_city": false,
+        "is_fortified": false
+    },
+    "411": {
+        "owner": "Rome",
+        "troops": 100,
+        "has_city": false,
+        "is_fortified": false
+    }
+}

@@ -145,9 +145,9 @@
     },
     "25": {
         "owner": "None",
-        "troops": 500,
-        "has_city": true,
-        "is_fortified": true
+        "troops": 250,
+        "has_city": false,
+        "is_fortified": false
     },
     "26": {
         "owner": "None",
@@ -157,9 +157,9 @@
     },
     "27": {
         "owner": "None",
-        "troops": 250,
-        "has_city": false,
-        "is_fortified": false
+        "troops": 500,
+        "has_city": true,
+        "is_fortified": true
     },
     "28": {
         "owner": "AI",
@@ -199,7 +199,7 @@
     },
     "34": {
         "owner": "Franks",
-        "troops": 150,
+        "troops": 250,
         "has_city": false,
         "is_fortified": false
     },
@@ -258,10 +258,10 @@
         "is_fortified": false
     },
     "44": {
-        "owner": "None",
+        "owner": "AI",
         "troops": 500,
         "has_city": true,
-        "is_fortified": false
+        "is_fortified": true
     },
     "45": {
         "owner": "AI",
@@ -372,7 +372,7 @@
         "is_fortified": false
     },
     "63": {
-        "owner": "None",
+        "owner": "AI",
         "troops": 500,
         "has_city": false,
         "is_fortified": false
@@ -597,7 +597,7 @@
         "owner": "RomeW",
         "troops": 100,
         "has_city": true,
-        "is_fortified": false
+        "is_fortified": true
     },
     "101": {
         "owner": "RomeW",
@@ -908,8 +908,8 @@
     "152": {
         "owner": "Rome",
         "troops": 750,
-        "has_city": true,
-        "is_fortified": true
+        "has_city": false,
+        "is_fortified": false
     },
     "153": {
         "owner": "AI",
@@ -920,7 +920,7 @@
     "154": {
         "owner": "AI",
         "troops": 10000,
-        "has_city": true,
+        "has_city": false,
         "is_fortified": false
     },
     "155": {
@@ -1016,8 +1016,8 @@
     "170": {
         "owner": "Rome",
         "troops": 150,
-        "has_city": true,
-        "is_fortified": true
+        "has_city": false,
+        "is_fortified": false
     },
     "171": {
         "owner": "Rome",
@@ -1563,7 +1563,7 @@
         "owner": "Persia",
         "troops": 0,
         "has_city": true,
-        "is_fortified": true
+        "is_fortified": false
     },
     "262": {
         "owner": "Persia",
@@ -1893,7 +1893,7 @@
         "owner": "Persia",
         "troops": 0,
         "has_city": true,
-        "is_fortified": true
+        "is_fortified": false
     },
     "317": {
         "owner": "Persia",

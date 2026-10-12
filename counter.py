@@ -30,6 +30,20 @@ ROME_TERRITORY_BONUSES = {
 # Change when these things happen!
 DARA_BLOWN = False
 PENTARCHY_ACTIVE = False
+PERSIA_ECO = 1
+FRANKS_BOOST = True
+
+# IS THE TRIBE A TRIBE?
+TRIBES = {
+    "Vandals": True,
+    "Visigoths": True,
+    "Suebi": True,
+    "Franks": True, 
+    "Saxons": True,
+    "Ostrogoths": True,
+    "Arabs": True,
+    "Lombards": True,
+}
 
 def get_civ_stats(civ_name):
     """
@@ -62,7 +76,6 @@ def get_civ_stats(civ_name):
                 cities += 1
                 if is_fortified:
                     fortified_cities += 1
-
     return {
         "civ": civ_name,
         "territories": territories,
@@ -90,12 +103,10 @@ def calculate_civ_income(civ_stats, agriculture=1, economy=1):
 
     with open("gamestate.json", 'r', encoding='utf-8') as f:
         gamestate = json.load(f)
-
-    print(agriculture)
+    if civ == "Persia":
+        economy += PERSIA_ECO
     # Formula calculations
     food_per_territory = 100 + (agriculture * 10)
-    print(food_per_territory)
-    print(food_per_territory * (territories + 8) - troops)
     # Food income has to be calculated AFTER the bonuses are added.
 
     silver_per_city = 10 + (economy * 7)
@@ -122,18 +133,29 @@ def calculate_civ_income(civ_stats, agriculture=1, economy=1):
     
     food_income = (territories * food_per_territory) - troops
 
+    if civ == "Suebi":
+        food_income = (territories * food_per_territory * 2) - troops
+    if civ == "Franks" and FRANKS_BOOST:
+        silver_income *= 3
+        gold_income *= 3
+    elif civ == "Franks":
+        silver_income *= 2
+    if civ in TRIBES and TRIBES[civ]:
+        food_income = 0 - troops
+        silver_income = 0
+        gold_income = 0
     return {
         "civ": civ,
-        "food": food_income,
-        "silver": silver_income,
-        "gold": gold_income
+        "Food": food_income,
+        "Silver": silver_income,
+        "Gold": gold_income
     }
 
 
 if __name__ == "__main__":
     civ = "Rome"
     stats = get_civ_stats(civ)
-    income = calculate_civ_income(stats, agriculture=4, economy=2)
+    income = calculate_civ_income(stats, agriculture=3, economy=4)
 
     print(f"--- {civ} Stats ---")
     print(json.dumps(stats, indent=4))

@@ -124,3 +124,4 @@ class PixelFontRenderer:
 
                 target_img.paste(fill_color, (curr_x, start_y), mask=sprite)
                 curr_x += w + self.spacing
+        return total_w, total_h

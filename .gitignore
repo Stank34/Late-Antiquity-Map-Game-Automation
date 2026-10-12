@@ -1,2 +1,6 @@
 *.pdn
 Boards
+board_outputs
+gamestate.json
+civ_stats.json
+map_visual.png

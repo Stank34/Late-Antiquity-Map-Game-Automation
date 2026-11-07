@@ -24,7 +24,7 @@ OUTLINE_BOUNDS = (795, 376, 1142, 998)
 
 PRIMARY_COORDS = {
     "Silver": (462, 129, "#FFFFFF", "left"),
-    "Food": (777, 129, "#FFFFFF", "left"),
+    "Food": (780, 129, "#FFFFFF", "left"),
     "Gold": (1110, 129, "#FFFFFF", "left"),
     "Troops": (1370, 129, "#FFFFFF", "left"),
     "Sieges": (1635, 129, "#FFFFFF", "left"),

@@ -7,9 +7,9 @@ CIV_ALIASES = {
 
 SPECIAL_TERRITORY_BONUSES = {
     "11": {"gold": 4},  # Britain gold mine
-    "71": {"silver": 240}, # Gaul silver
+    "71": {"silver": 180}, # Gaul silver
     "104": {"gold": 4}, # Iberia gold
-    "142": {"silver": 240}, # Illyria training
+    "142": {"silver": 180}, # Illyria training
     "349": {"territories": 4}, # Lower Egypt
     "350": {"territories": 2}, # Upper Egypt
     "351": {"territories": 2}, # Libya Inferior
@@ -19,27 +19,27 @@ SPECIAL_TERRITORY_BONUSES = {
 }
 
 ROME_TERRITORY_BONUSES = {
-    "128": {"gold": 4, "silver": 50}, # Rome
-    "180": {"gold": 4, "silver": 50}, # Constantinople
-    "210": {"gold": 2, "silver": 100}, # Antioch
+    "128": {"gold": 1, "silver": 0}, # Rome
+    "180": {"gold": 4, "silver": 100}, # Constantinople
+    "210": {"gold": 1, "silver": 50}, # Antioch
     "248": {"silver": 150}, # Dara
-    "275": {"gold": 2, "silver": 100}, # Jerusalem
-    "349": {"gold": 2, "silver": 100}, # Alexandria
+    "275": {"gold": 1, "silver": 50}, # Jerusalem
+    "349": {"gold": 1, "silver": 50}, # Alexandria
 }
 
 # Change when these things happen!
 DARA_BLOWN = False
-PENTARCHY_ACTIVE = False
-PERSIA_ECO = 1
+PENTARCHY_ACTIVE = True
+PERSIA_ECO = 0
 FRANKS_BOOST = True
 
 # IS THE TRIBE A TRIBE?
 TRIBES = {
-    "Vandals": True,
-    "Visigoths": True,
-    "Suebi": True,
-    "Franks": True, 
-    "Saxons": True,
+    "Vandals": False,
+    "Visigoths": False,
+    "Suebi": False,
+    "Franks": False, 
+    "Saxons": False,
     "Ostrogoths": True,
     "Arabs": True,
     "Lombards": True,
@@ -153,9 +153,13 @@ def calculate_civ_income(civ_stats, agriculture=1, economy=1):
 
 
 if __name__ == "__main__":
-    civ = "Rome"
+    civ = "Saxons"
+    with open("civ_stats.json", "r", encoding="utf-8") as f:
+        stats_data = json.load(f)
+
+    civ_object = stats_data.get(civ)
     stats = get_civ_stats(civ)
-    income = calculate_civ_income(stats, agriculture=3, economy=4)
+    income = calculate_civ_income(stats, agriculture=civ_object.get("Agriculture", 0), economy=civ_object.get("Economy", 0))
 
     print(f"--- {civ} Stats ---")
     print(json.dumps(stats, indent=4))
